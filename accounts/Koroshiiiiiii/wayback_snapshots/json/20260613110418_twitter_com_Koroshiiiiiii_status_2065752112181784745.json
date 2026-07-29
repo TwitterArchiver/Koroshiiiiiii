@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057743680061255680",
+    "conversation_id": "2065752112181784745",
+    "created_at": "2026-06-13T11:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T12:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065752112181784745"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xxx_kkkl/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/xxx_kkkl/status/2065751860116631802",
+          "start": 18,
+          "url": "https://t.co/RyD27JXDrg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065752112181784745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065751860116631802",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看看这个杰森，复活吧，我们的杰森😇 https://t.co/RyD27JXDrg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065751842722820096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsGWyuaMAAGSdb.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2065752112181784745",
+        "created_at": "2026-06-13T11:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065752112181784745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxx_kkkl/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/xxx_kkkl/status/2065751860116631802",
+              "start": 18,
+              "url": "https://t.co/RyD27JXDrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065752112181784745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065751860116631802",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看看这个杰森，复活吧，我们的杰森😇 https://t.co/RyD27JXDrg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065751842722820096"
+          ]
+        },
+        "author_id": "1384831606276476930",
+        "conversation_id": "2065751860116631802",
+        "created_at": "2026-06-13T11:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065751860116631802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PUNau2ospy",
+              "end": 95,
+              "expanded_url": "https://x.com/Xxx_kkkl/status/2065751860116631802/photo/1",
+              "media_key": "3_2065751842722820096",
+              "start": 72,
+              "url": "https://t.co/PUNau2ospy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065751860116631802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尼玛 是我 我是一直以来陪伴你们的Jahseh尝试复活请转帖\n我是可爱的卖神必糖果的小姑娘呀…..\n（飘飘、棉花代理）\n瓦楞斯的奴才吧可能是吧 https://t.co/PUNau2ospy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，仅私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AiSMfPiELF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 126,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 103,
+                "url": "https://t.co/AiSMfPiELF"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 312,
+          "like_count": 1457,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 812
+        },
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-21T11:29:28.000Z",
+        "description": "活人死的",
+        "id": "1384831606276476930",
+        "name": "Jahseh（4.0）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065751551243886592/8KJyvMdm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 12,
+          "like_count": 51,
+          "listed_count": 3,
+          "media_count": 2,
+          "tweet_count": 51
+        },
+        "username": "Xxx_kkkl",
+        "verified": false
+      }
+    ]
+  }
+}

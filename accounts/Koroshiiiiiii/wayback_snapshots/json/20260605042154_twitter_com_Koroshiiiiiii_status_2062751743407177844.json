@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062630894096039936"
+      ],
+      "media_source_tweet_id": [
+        "2062630910046957909"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "conversation_id": "2062751743407177844",
+    "created_at": "2026-06-05T04:21:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T05:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062751743407177844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2002287856430297092",
+          "start": 3,
+          "username": "GhostCatttK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2ZELMswwd8",
+          "end": 43,
+          "expanded_url": "https://x.com/GhostCatttK/status/2062630910046957909/photo/1",
+          "media_key": "3_2062630894096039936",
+          "start": 20,
+          "url": "https://t.co/2ZELMswwd8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062751743407177844",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062630910046957909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GhostCatttK: 💙🖤 https://t.co/2ZELMswwd8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2062630894096039936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ_v3rFXQAAI33_.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062630894096039936"
+          ],
+          "media_source_tweet_id": [
+            "2062630910046957909"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2062751743407177844",
+        "created_at": "2026-06-05T04:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062751743407177844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2002287856430297092",
+              "start": 3,
+              "username": "GhostCatttK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ZELMswwd8",
+              "end": 43,
+              "expanded_url": "https://x.com/GhostCatttK/status/2062630910046957909/photo/1",
+              "media_key": "3_2062630894096039936",
+              "start": 20,
+              "url": "https://t.co/2ZELMswwd8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062751743407177844",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062630910046957909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GhostCatttK: 💙🖤 https://t.co/2ZELMswwd8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062630894096039936"
+          ]
+        },
+        "author_id": "2002287856430297092",
+        "conversation_id": "2062630910046957909",
+        "created_at": "2026-06-04T20:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T21:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062630910046957909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ZELMswwd8",
+              "end": 26,
+              "expanded_url": "https://x.com/GhostCatttK/status/2062630910046957909/photo/1",
+              "media_key": "3_2062630894096039936",
+              "start": 3,
+              "url": "https://t.co/2ZELMswwd8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062630910046957909",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 783,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "💙🖤 https://t.co/2ZELMswwd8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，仅私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AiSMfPiELF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 126,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 103,
+                "url": "https://t.co/AiSMfPiELF"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土四",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 294,
+          "like_count": 1091,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 628
+        },
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T08:00:09.000Z",
+        "description": "只发自己拍的",
+        "id": "2002287856430297092",
+        "location": "Tokyo-to, Japan",
+        "name": "H",
+        "pinned_tweet_id": "2060797027408039970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005675480314499072/vQNJXqtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 91,
+          "like_count": 335,
+          "listed_count": 1,
+          "media_count": 274,
+          "tweet_count": 988
+        },
+        "username": "GhostCatttK",
+        "verified": false
+      }
+    ]
+  }
+}

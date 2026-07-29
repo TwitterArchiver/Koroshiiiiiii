@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057743680061255680",
+    "conversation_id": "2070698535817978214",
+    "created_at": "2026-06-27T02:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T03:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070698535817978214"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/serinda_aqua/s…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/serinda_aqua/status/2070688435984331049",
+          "start": 36,
+          "url": "https://t.co/h8CFqvJNHG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070698535817978214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070688435984331049",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是这样的，所以我一般不会补药！一是有点浪费，二可能是真的会很难受... https://t.co/h8CFqvJNHG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2070698535817978214",
+        "created_at": "2026-06-27T02:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070698535817978214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/serinda_aqua/s…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/serinda_aqua/status/2070688435984331049",
+              "start": 36,
+              "url": "https://t.co/h8CFqvJNHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070698535817978214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070688435984331049",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是这样的，所以我一般不会补药！一是有点浪费，二可能是真的会很难受... https://t.co/h8CFqvJNHG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029585628074262528",
+        "conversation_id": "2070683084127899790",
+        "created_at": "2026-06-27T01:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T02:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070688435984331049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057743680061255680",
+              "start": 0,
+              "username": "Koroshiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070688435984331049",
+        "in_reply_to_user_id": "2057743680061255680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070683084127899790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koroshiiiiiii 每次吐了就啊——浪费了啊！要不要补药啊？？又要等啊好烦啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/bo7UxZdgdF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cg7KXvKW0Nb1…",
+                "end": 112,
+                "expanded_url": "https://www.kdocs.cn/l/cg7KXvKW0Nb1?f=301",
+                "start": 89,
+                "url": "https://t.co/bo7UxZdgdF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/kGVlVzRycD"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 343,
+          "like_count": 1913,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 792
+        },
+        "url": "https://t.co/kGVlVzRycD",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T15:52:08.000Z",
+        "description": "这是我的呕吐之地🩵双取随意\n只是为了看nsfw🔞的不要关注了谢谢\n如你所见这是一个有点暴露癖的精神病\n⁺✞ ʚ精品神药重度依赖⁺ɞ✟ 会查成分回fo\n⚠️有非常严重的边缘型人格障碍",
+        "id": "2029585628074262528",
+        "location": "🚪 88好友位",
+        "name": "水色歌",
+        "pinned_tweet_id": "2070284468762607979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067367698817036288/40p-j80S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 174,
+          "like_count": 3335,
+          "listed_count": 13,
+          "media_count": 154,
+          "tweet_count": 1413
+        },
+        "url": "",
+        "username": "Serinda_Aqua",
+        "verified": false
+      }
+    ]
+  }
+}

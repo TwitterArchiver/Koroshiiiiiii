@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078824158490988544"
+      ],
+      "media_source_tweet_id": [
+        "2078824165944266753"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "conversation_id": "2079001963958874168",
+    "created_at": "2026-07-20T00:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T01:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079001963958874168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1926833599380115456",
+          "start": 3,
+          "username": "Oksana222RC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GvH3hHGwc5",
+          "end": 54,
+          "expanded_url": "https://x.com/Oksana222RC/status/2078824165944266753/photo/1",
+          "media_key": "3_2078824158490988544",
+          "start": 31,
+          "url": "https://t.co/GvH3hHGwc5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079001963958874168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078824165944266753",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Oksana222RC: 兴奋剂类也有了！欢迎购买～ https://t.co/GvH3hHGwc5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078824158490988544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNl3jt1bEAAuf8V.jpg",
+        "width": 1118
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078824158490988544"
+          ]
+        },
+        "author_id": "1926833599380115456",
+        "conversation_id": "2078824165944266753",
+        "created_at": "2026-07-19T12:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078824165944266753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GvH3hHGwc5",
+              "end": 37,
+              "expanded_url": "https://x.com/Oksana222RC/status/2078824165944266753/photo/1",
+              "media_key": "3_2078824158490988544",
+              "start": 14,
+              "url": "https://t.co/GvH3hHGwc5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078824165944266753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1162,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "兴奋剂类也有了！欢迎购买～ https://t.co/GvH3hHGwc5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078824158490988544"
+          ],
+          "media_source_tweet_id": [
+            "2078824165944266753"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2079001963958874168",
+        "created_at": "2026-07-20T00:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T01:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079001963958874168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1926833599380115456",
+              "start": 3,
+              "username": "Oksana222RC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GvH3hHGwc5",
+              "end": 54,
+              "expanded_url": "https://x.com/Oksana222RC/status/2078824165944266753/photo/1",
+              "media_key": "3_2078824158490988544",
+              "start": 31,
+              "url": "https://t.co/GvH3hHGwc5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079001963958874168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078824165944266753",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Oksana222RC: 兴奋剂类也有了！欢迎购买～ https://t.co/GvH3hHGwc5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀（🦋同名只发drug）\n不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/9aTLaOashy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 113,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 90,
+                "url": "https://t.co/9aTLaOashy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2075645184621330511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 417,
+          "like_count": 2987,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 1017
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T02:51:52.000Z",
+        "description": "逃避追杀于是创立第二人格。\n大号：@jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1926833599380115456",
+        "name": "Oksana的神秘实验室",
+        "pinned_tweet_id": "1975236330604089493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057888157048406016/ecYmVfoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 13,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "Oksana222RC",
+        "verified": false
+      }
+    ]
+  }
+}

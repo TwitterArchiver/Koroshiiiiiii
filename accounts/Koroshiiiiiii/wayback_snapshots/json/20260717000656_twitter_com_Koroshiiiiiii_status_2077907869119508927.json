@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057743680061255680",
+    "conversation_id": "2077893050068819993",
+    "created_at": "2026-07-17T00:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T01:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077907869119508927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1944341985118023680",
+          "start": 0,
+          "username": "liberazioney_60"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077907869119508927",
+    "in_reply_to_user_id": "1944341985118023680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077893050068819993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liberazioney_60 很香！香芋冰淇淋！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2077893050068819993",
+        "created_at": "2026-07-17T00:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T01:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077907869119508927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1944341985118023680",
+              "start": 0,
+              "username": "liberazioney_60"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077907869119508927",
+        "in_reply_to_user_id": "1944341985118023680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077893050068819993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liberazioney_60 很香！香芋冰淇淋！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944341985118023680",
+        "conversation_id": "2077893050068819993",
+        "created_at": "2026-07-16T23:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T00:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077893050068819993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Koroshiiiiiii/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Koroshiiiiiii/status/2077698167978819641",
+              "start": 19,
+              "url": "https://t.co/WFxZXcHqCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077893050068819993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077698167978819641",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "阿里山到底啥味啊啊啊啊啊啊啊好像试试 https://t.co/WFxZXcHqCN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀（🦋同名只发drug）\n不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/9aTLaOashy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 113,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 90,
+                "url": "https://t.co/9aTLaOashy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2075645184621330511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 401,
+          "like_count": 2804,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 979
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T10:24:33.000Z",
+        "description": "cn卷卷 双子 intj 泛 switch \n我看极端主义未必极端",
+        "id": "1944341985118023680",
+        "name": "其实我伤口也很痛",
+        "pinned_tweet_id": "2074864077843890243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074759785552171008/QlfveBVN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 49,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "liberazioney_60",
+        "verified": false
+      }
+    ]
+  }
+}

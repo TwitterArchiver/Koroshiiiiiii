@@ -1,0 +1,577 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004115010084077568"
+      ],
+      "media_source_tweet_id": [
+        "2004115030753599668"
+      ]
+    },
+    "author_id": "1628317122945515520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "description": "Sega",
+          "id": "943877135894056966",
+          "name": "Sega"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sega",
+          "id": "943877135894056966",
+          "name": "Sega"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2004488928800411797",
+    "created_at": "2025-12-26T09:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T10:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004488928800411797"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 46,
+          "normalized_text": "SEGA",
+          "probability": 0.4911,
+          "start": 43,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "17092592",
+          "start": 3,
+          "username": "SEGA"
+        },
+        {
+          "end": 64,
+          "id": "728503523663437824",
+          "start": 55,
+          "username": "supsross"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xeS5ZbGEHD",
+          "end": 88,
+          "expanded_url": "https://x.com/SEGA/status/2004115030753599668/photo/1",
+          "media_key": "3_2004115010084077568",
+          "start": 65,
+          "url": "https://t.co/xeS5ZbGEHD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004488928800411797",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11458
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004115030753599668",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SEGA: Happy Holidays from all of us at SEGA! 💙\n\n🎨: @supsross https://t.co/xeS5ZbGEHD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1742,
+        "media_key": "3_2004115010084077568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9AL-8EXAAAxU8K.jpg",
+        "width": 3096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004115010084077568"
+          ],
+          "media_source_tweet_id": [
+            "2004115030753599668"
+          ]
+        },
+        "author_id": "1628317122945515520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2004488928800411797",
+        "created_at": "2025-12-26T09:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T10:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004488928800411797"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "SEGA",
+              "probability": 0.4911,
+              "start": 43,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "17092592",
+              "start": 3,
+              "username": "SEGA"
+            },
+            {
+              "end": 64,
+              "id": "728503523663437824",
+              "start": 55,
+              "username": "supsross"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xeS5ZbGEHD",
+              "end": 88,
+              "expanded_url": "https://x.com/SEGA/status/2004115030753599668/photo/1",
+              "media_key": "3_2004115010084077568",
+              "start": 65,
+              "url": "https://t.co/xeS5ZbGEHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004488928800411797",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11458
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004115030753599668",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SEGA: Happy Holidays from all of us at SEGA! 💙\n\n🎨: @supsross https://t.co/xeS5ZbGEHD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004115010084077568"
+          ]
+        },
+        "author_id": "17092592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2004115030753599668",
+        "created_at": "2025-12-25T09:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T10:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004115030753599668"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "SEGA",
+              "probability": 0.4399,
+              "start": 33,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 54,
+              "id": "728503523663437824",
+              "start": 45,
+              "username": "supsross"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xeS5ZbGEHD",
+              "end": 78,
+              "expanded_url": "https://x.com/SEGA/status/2004115030753599668/photo/1",
+              "media_key": "3_2004115010084077568",
+              "start": 55,
+              "url": "https://t.co/xeS5ZbGEHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004115030753599668",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4201,
+          "impression_count": 1061627,
+          "like_count": 49871,
+          "quote_count": 600,
+          "reply_count": 274,
+          "retweet_count": 11458
+        },
+        "reply_settings": "everyone",
+        "text": "Happy Holidays from all of us at SEGA! 💙\n\n🎨: @supsross https://t.co/xeS5ZbGEHD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-22T08:54:23.000Z",
+        "description": "i draw i guess",
+        "id": "1628317122945515520",
+        "location": "the unimaginable ",
+        "name": "koro",
+        "pinned_tweet_id": "1666311300711092224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964140585528545283/D9WLLdsi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 32,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2008-10-31T21:01:28.000Z",
+        "description": "Official Twitter account for SEGA! We publish @Sonic_Hedgehog, @RGGStudio, @TotalWar,  and more. Our games are rated by the ESRB from Pending to Mature.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "Sonic_Hedgehog"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "RGGStudio"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "TotalWar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/segaofamerica",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/segaofamerica",
+                "start": 0,
+                "url": "https://t.co/r6VSA2KHaX"
+              }
+            ]
+          }
+        },
+        "id": "17092592",
+        "location": "Los Angeles & London",
+        "name": "SEGA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950894010219872258/ulGlw6nu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2259004,
+          "following_count": 370,
+          "like_count": 7982,
+          "listed_count": 9808,
+          "media_count": 4829,
+          "tweet_count": 40406
+        },
+        "url": "https://t.co/r6VSA2KHaX",
+        "username": "SEGA",
+        "verified": true
+      },
+      {
+        "created_at": "2016-05-06T08:35:49.000Z",
+        "description": "Hi i'm moti. I'm an aspiring illustrator and animator. ✒️\n\nBorn in '02.\n\npfp by: @kkelsey__spring ❤️‍🔥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 81,
+                "username": "kkelsey__spring"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "themoti.carrd.co",
+                "end": 23,
+                "expanded_url": "https://themoti.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/t7vAg9tlBu"
+              }
+            ]
+          }
+        },
+        "id": "728503523663437824",
+        "location": "Filipino World 🇵🇭",
+        "name": "MOTI - C0MMS OPEN (1/2)",
+        "pinned_tweet_id": "1903143747355021377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944782369703215104/5xGHuFSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32941,
+          "following_count": 742,
+          "like_count": 23192,
+          "listed_count": 155,
+          "media_count": 1642,
+          "tweet_count": 9855
+        },
+        "url": "https://t.co/t7vAg9tlBu",
+        "username": "supsross",
+        "verified": false
+      }
+    ]
+  }
+}

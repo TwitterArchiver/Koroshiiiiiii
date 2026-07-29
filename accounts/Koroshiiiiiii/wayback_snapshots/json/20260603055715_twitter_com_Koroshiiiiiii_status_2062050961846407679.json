@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062050954984488960"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "conversation_id": "2062050961846407679",
+    "created_at": "2026-06-03T05:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T06:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062050961846407679"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xarmh9gamZ",
+          "end": 83,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2062050961846407679/photo/1",
+          "media_key": "3_2062050954984488960",
+          "start": 60,
+          "url": "https://t.co/Xarmh9gamZ"
+        },
+        {
+          "display_url": "x.com/koroshiiiiiii/…",
+          "end": 107,
+          "expanded_url": "https://twitter.com/koroshiiiiiii/status/2061784473474404726",
+          "start": 84,
+          "url": "https://t.co/vhsg1LYDqa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062050961846407679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061784473474404726",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真心希望这位孩子能看到...由于我的疏忽，昨天在右美药效里回答了你的问题，但千万不要这样做啊啊啊，对不起，感谢狐😭😭 https://t.co/Xarmh9gamZ https://t.co/vhsg1LYDqa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1397,
+        "media_key": "3_2062050954984488960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3gaxibAAAzISK.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2061784438581985280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzuBekbgAA23HJ.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062050954984488960"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2062050961846407679",
+        "created_at": "2026-06-03T05:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062050961846407679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xarmh9gamZ",
+              "end": 83,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2062050961846407679/photo/1",
+              "media_key": "3_2062050954984488960",
+              "start": 60,
+              "url": "https://t.co/Xarmh9gamZ"
+            },
+            {
+              "display_url": "x.com/koroshiiiiiii/…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/koroshiiiiiii/status/2061784473474404726",
+              "start": 84,
+              "url": "https://t.co/vhsg1LYDqa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062050961846407679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061784473474404726",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真心希望这位孩子能看到...由于我的疏忽，昨天在右美药效里回答了你的问题，但千万不要这样做啊啊啊，对不起，感谢狐😭😭 https://t.co/Xarmh9gamZ https://t.co/vhsg1LYDqa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061784438581985280"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061784473474404726",
+        "created_at": "2026-06-02T12:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061784473474404726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T3a2uo7Pzp",
+              "end": 61,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2061784473474404726/photo/1",
+              "media_key": "3_2061784438581985280",
+              "start": 38,
+              "url": "https://t.co/T3a2uo7Pzp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061784473474404726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 860,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个还是别了叭...麻醉很伤脑子的，而且静脉注射效率会更快，不要这样... https://t.co/T3a2uo7Pzp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AiSMfPiELF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 129,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 106,
+                "url": "https://t.co/AiSMfPiELF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土四",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 354,
+          "like_count": 983,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 596
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2064571108775608321",
+        "3_2064571108767182848"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "conversation_id": "2064571166644424785",
+    "created_at": "2026-06-10T04:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064571166644424785"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HUCIbd3zTx",
+          "end": 25,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2064571166644424785/video/1",
+          "media_key": "13_2064571108775608321",
+          "start": 2,
+          "url": "https://t.co/HUCIbd3zTx"
+        },
+        {
+          "display_url": "pic.x.com/HUCIbd3zTx",
+          "end": 25,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2064571166644424785/video/1",
+          "media_key": "3_2064571108767182848",
+          "start": 2,
+          "url": "https://t.co/HUCIbd3zTx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064571166644424785",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🦋 https://t.co/HUCIbd3zTx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4751,
+        "height": 1280,
+        "media_key": "13_2064571108775608321",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064571108775608321/img/Cjdhtq8RZiitBaw2.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064571108775608321/vid/avc1/320x568/MYhj8rMw81ke8VYe.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064571108775608321/vid/avc1/480x852/Te8jh61_iUhEKj0d.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064571108775608321/vid/avc1/720x1280/I8-KSVkiL215j566.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064571108775608321/pl/oXY0r9YU_QOs-N2s.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2064571108767182848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbUfB-aMAAqEzu.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064571108775608321",
+            "3_2064571108767182848"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2064571166644424785",
+        "created_at": "2026-06-10T04:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064571166644424785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HUCIbd3zTx",
+              "end": 25,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2064571166644424785/video/1",
+              "media_key": "13_2064571108775608321",
+              "start": 2,
+              "url": "https://t.co/HUCIbd3zTx"
+            },
+            {
+              "display_url": "pic.x.com/HUCIbd3zTx",
+              "end": 25,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2064571166644424785/video/1",
+              "media_key": "3_2064571108767182848",
+              "start": 2,
+              "url": "https://t.co/HUCIbd3zTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064571166644424785",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🦋 https://t.co/HUCIbd3zTx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，仅私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AiSMfPiELF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 126,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 103,
+                "url": "https://t.co/AiSMfPiELF"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土四",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 302,
+          "like_count": 1329,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 745
+        },
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

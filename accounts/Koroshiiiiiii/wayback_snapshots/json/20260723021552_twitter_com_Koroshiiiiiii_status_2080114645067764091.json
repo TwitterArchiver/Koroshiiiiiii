@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079905849552896000"
+      ],
+      "media_source_tweet_id": [
+        "2079905863830237196"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "conversation_id": "2080114645067764091",
+    "created_at": "2026-07-23T02:15:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T03:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080114645067764091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2079101403029725184",
+          "start": 3,
+          "username": "mingrentangRC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VTrgpNVMDX",
+          "end": 42,
+          "expanded_url": "https://x.com/mingrentangRC/status/2079905863830237196/photo/1",
+          "media_key": "3_2079905849552896000",
+          "start": 19,
+          "url": "https://t.co/VTrgpNVMDX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080114645067764091",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079905863830237196",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mingrentangRC: https://t.co/VTrgpNVMDX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 482,
+        "media_key": "3_2079905849552896000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1PWbDbgAAQdU7.png",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079905849552896000"
+          ]
+        },
+        "author_id": "2079101403029725184",
+        "conversation_id": "2079905863830237196",
+        "created_at": "2026-07-22T12:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079905863830237196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VTrgpNVMDX",
+              "end": 23,
+              "expanded_url": "https://x.com/mingrentangRC/status/2079905863830237196/photo/1",
+              "media_key": "3_2079905849552896000",
+              "start": 0,
+              "url": "https://t.co/VTrgpNVMDX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079905863830237196",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 915,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VTrgpNVMDX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079905849552896000"
+          ],
+          "media_source_tweet_id": [
+            "2079905863830237196"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2080114645067764091",
+        "created_at": "2026-07-23T02:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080114645067764091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2079101403029725184",
+              "start": 3,
+              "username": "mingrentangRC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VTrgpNVMDX",
+              "end": 42,
+              "expanded_url": "https://x.com/mingrentangRC/status/2079905863830237196/photo/1",
+              "media_key": "3_2079905849552896000",
+              "start": 19,
+              "url": "https://t.co/VTrgpNVMDX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080114645067764091",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079905863830237196",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mingrentangRC: https://t.co/VTrgpNVMDX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀（🦋同名只发drug）\n不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/9aTLaOashy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 113,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 90,
+                "url": "https://t.co/9aTLaOashy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2075645184621330511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 421,
+          "like_count": 3224,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1074
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-20T07:10:24.000Z",
+        "description": "这里是名人堂梦工场，经营策划药、RC相关及解决方案。不管您是oder、渠道商、分销商，都可以在这里找到自己的产品和定位\n全网最注重合规、安全的RC策划药商\n坚定的RC成分公开支持者\n联合创始人/合规与策划合伙人：x-square「公子」@xx1012000456\n敬请期待",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 118,
+                "username": "xx1012000456"
+              }
+            ]
+          }
+        },
+        "id": "2079101403029725184",
+        "name": "名人堂梦工场RC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079256553837010944/4MunitEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "mingrentangRC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081317685246427137"
+      ],
+      "media_source_tweet_id": [
+        "2081317801403531301"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2081479099726667829",
+    "created_at": "2026-07-26T20:37:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T21:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081479099726667829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1322099241074880518",
+          "start": 3,
+          "username": "ikuta41"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4znhMPzQiN",
+          "end": 52,
+          "expanded_url": "https://x.com/ikuta41/status/2081317801403531301/video/1",
+          "media_key": "13_2081317685246427137",
+          "start": 29,
+          "url": "https://t.co/4znhMPzQiN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081479099726667829",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1006
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081317801403531301",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ikuta41: 巨大ドール、今はただの観光地。 https://t.co/4znhMPzQiN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18018,
+        "height": 2676,
+        "media_key": "13_2081317685246427137",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081317685246427137/img/LsHrfT46EjR9Hzep.jpg",
+        "public_metrics": {
+          "view_count": 53568
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081317685246427137/pl/xs90UNebCQV5PyyM.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081317685246427137/vid/avc1/320x396/EbpxOA2KyQBqvdaF.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081317685246427137/vid/avc1/2160x2676/jYqbAgP4aALTEh_c.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081317685246427137/vid/avc1/1080x1338/aQTe6HwgCBe3n4rC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081317685246427137/vid/avc1/480x594/141LOTlDMmZPTYHG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081317685246427137/vid/avc1/720x892/nMJfH8zBucBAQavs.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081317685246427137"
+          ]
+        },
+        "author_id": "1322099241074880518",
+        "conversation_id": "2081317801403531301",
+        "created_at": "2026-07-26T09:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T10:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081317801403531301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4znhMPzQiN",
+              "end": 39,
+              "expanded_url": "https://x.com/ikuta41/status/2081317801403531301/video/1",
+              "media_key": "13_2081317685246427137",
+              "start": 16,
+              "url": "https://t.co/4znhMPzQiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081317801403531301",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1391,
+          "impression_count": 173695,
+          "like_count": 11928,
+          "quote_count": 10,
+          "reply_count": 6,
+          "retweet_count": 1006
+        },
+        "reply_settings": "everyone",
+        "text": "巨大ドール、今はただの観光地。 https://t.co/4znhMPzQiN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081317685246427137"
+          ],
+          "media_source_tweet_id": [
+            "2081317801403531301"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081479099726667829",
+        "created_at": "2026-07-26T20:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T21:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081479099726667829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1322099241074880518",
+              "start": 3,
+              "username": "ikuta41"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4znhMPzQiN",
+              "end": 52,
+              "expanded_url": "https://x.com/ikuta41/status/2081317801403531301/video/1",
+              "media_key": "13_2081317685246427137",
+              "start": 29,
+              "url": "https://t.co/4znhMPzQiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081479099726667829",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1006
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081317801403531301",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ikuta41: 巨大ドール、今はただの観光地。 https://t.co/4znhMPzQiN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "🚪77（防扰）\n可以叫小杀（🦋同名只发drug）\n不🩸🔪/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪\n药理学习中💊/免费私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/9aTLaOashy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 110,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 87,
+                "url": "https://t.co/9aTLaOashy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2081330568390979780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 292,
+          "like_count": 3384,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1115
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-30T08:53:37.000Z",
+        "description": "contact▶︎▷ ikutaj0041@gmail.com Instagram▶︎▷https://t.co/T8RHIysAEi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ikuta_ikuta41",
+                "end": 67,
+                "expanded_url": "http://instagram.com/ikuta_ikuta41",
+                "start": 44,
+                "url": "https://t.co/T8RHIysAEi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/28025925",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/28025925",
+                "start": 0,
+                "url": "https://t.co/gOdCylraah"
+              }
+            ]
+          }
+        },
+        "id": "1322099241074880518",
+        "name": "幾田",
+        "pinned_tweet_id": "2000125282926440723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767357340066738176/y_kUFp1a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258493,
+          "following_count": 334,
+          "like_count": 3799,
+          "listed_count": 1484,
+          "media_count": 139,
+          "tweet_count": 631
+        },
+        "url": "https://t.co/gOdCylraah",
+        "username": "ikuta41",
+        "verified": true
+      }
+    ]
+  }
+}

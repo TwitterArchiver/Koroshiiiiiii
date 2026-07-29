@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057743680061255680",
+    "conversation_id": "2071166028869181794",
+    "created_at": "2026-06-28T09:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T10:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071166028869181794"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/godspeedyou50/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/godspeedyou50/status/2071099712930033820",
+          "start": 8,
+          "url": "https://t.co/j5U0xcTnDW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071166028869181794",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071099712930033820",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嘿嘿嘿嘿嘿嘿嘿 https://t.co/j5U0xcTnDW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1450,
+        "media_key": "3_2071099704327467008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4GNTra8AAtwjI.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071099704327458816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4GNTra0AA2CIH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2071166028869181794",
+        "created_at": "2026-06-28T09:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071166028869181794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/godspeedyou50/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/godspeedyou50/status/2071099712930033820",
+              "start": 8,
+              "url": "https://t.co/j5U0xcTnDW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071166028869181794",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071099712930033820",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘿嘿嘿嘿嘿嘿嘿 https://t.co/j5U0xcTnDW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071099704327467008",
+            "3_2071099704327458816"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2071099712930033820",
+        "created_at": "2026-06-28T05:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T06:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071099712930033820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kG6KksG8dJ",
+              "end": 38,
+              "expanded_url": "https://x.com/godspeedyou50/status/2071099712930033820/photo/1",
+              "media_key": "3_2071099704327467008",
+              "start": 15,
+              "url": "https://t.co/kG6KksG8dJ"
+            },
+            {
+              "display_url": "pic.x.com/kG6KksG8dJ",
+              "end": 38,
+              "expanded_url": "https://x.com/godspeedyou50/status/2071099712930033820/photo/1",
+              "media_key": "3_2071099704327458816",
+              "start": 15,
+              "url": "https://t.co/kG6KksG8dJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071099712930033820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1029,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奇怪的经验涌入大脑ing…. https://t.co/kG6KksG8dJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/bo7UxZdgdF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cg7KXvKW0Nb1…",
+                "end": 112,
+                "expanded_url": "https://www.kdocs.cn/l/cg7KXvKW0Nb1?f=301",
+                "start": 89,
+                "url": "https://t.co/bo7UxZdgdF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/kGVlVzRycD"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 343,
+          "like_count": 1965,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 800
+        },
+        "url": "https://t.co/kGVlVzRycD",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 509,
+          "like_count": 1253,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2785
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

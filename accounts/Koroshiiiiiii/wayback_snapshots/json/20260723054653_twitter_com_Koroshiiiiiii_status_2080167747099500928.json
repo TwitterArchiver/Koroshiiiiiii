@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057743680061255680",
+    "conversation_id": "2079886287595823214",
+    "created_at": "2026-07-23T05:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T06:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080167747099500928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "Easter_buny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080167747099500928",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079886287595823214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Easter_buny 😭😭求色素不沉淀教程"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079886275591766016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN09jEXbgAAcici.jpg",
+        "width": 1696
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2079886275587477504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN09jEWaEAAkxCR.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2079886287595823214",
+        "created_at": "2026-07-23T05:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080167747099500928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080167747099500928",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079886287595823214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 😭😭求色素不沉淀教程"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079886275591766016",
+            "3_2079886275587477504"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "2079886287595823214",
+        "created_at": "2026-07-22T11:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T12:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079886287595823214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YA3A7iHMb2",
+              "end": 82,
+              "expanded_url": "https://x.com/Easter_buny/status/2079886287595823214/photo/1",
+              "media_key": "3_2079886275591766016",
+              "start": 59,
+              "url": "https://t.co/YA3A7iHMb2"
+            },
+            {
+              "display_url": "pic.x.com/YA3A7iHMb2",
+              "end": 82,
+              "expanded_url": "https://x.com/Easter_buny/status/2079886287595823214/photo/1",
+              "media_key": "3_2079886275587477504",
+              "start": 59,
+              "url": "https://t.co/YA3A7iHMb2"
+            },
+            {
+              "display_url": "x.com/easter_buny/st…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/easter_buny/status/1825175470297514067",
+              "start": 83,
+              "url": "https://t.co/9UFVHCval8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079886287595823214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1896,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825175470297514067",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "彳亍，瘦是瘦下来了，但是屁股不好看了，我再怎么拍也不出片不好看了，之前穿33英寸的裤子现在穿29英寸，这个是之前拍的 https://t.co/YA3A7iHMb2 https://t.co/9UFVHCval8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "🚪77（防扰）\n可以叫小杀（🦋同名只发drug）\n不🩸🔪/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪\n药理学习中💊/不出售任何物质，免费私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/9aTLaO9Us0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 118,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 95,
+                "url": "https://t.co/9aTLaO9Us0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1SEJ4"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2075645184621330511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 327,
+          "like_count": 3231,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1078
+        },
+        "url": "https://t.co/Q7AWi1SEJ4",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8423,
+          "following_count": 1267,
+          "like_count": 67364,
+          "listed_count": 8,
+          "media_count": 3114,
+          "tweet_count": 19243
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      }
+    ]
+  }
+}

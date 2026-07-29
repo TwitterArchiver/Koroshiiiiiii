@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2062011078520020992"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "conversation_id": "2062011103413248086",
+    "created_at": "2026-06-03T03:18:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T04:18:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062011103413248086"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iXk4lDYfUs",
+          "end": 37,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2062011103413248086/photo/1",
+          "media_key": "16_2062011078520020992",
+          "start": 14,
+          "url": "https://t.co/iXk4lDYfUs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062011103413248086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉自己的舌头不够长... https://t.co/iXk4lDYfUs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2062011078520020992",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJ28JqIbIAA45EV.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJ28JqIbIAA45EV.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2062011078520020992"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2062011103413248086",
+        "created_at": "2026-06-03T03:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062011103413248086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iXk4lDYfUs",
+              "end": 37,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2062011103413248086/photo/1",
+              "media_key": "16_2062011078520020992",
+              "start": 14,
+              "url": "https://t.co/iXk4lDYfUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062011103413248086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉自己的舌头不够长... https://t.co/iXk4lDYfUs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AiSMfPiELF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 129,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 106,
+                "url": "https://t.co/AiSMfPiELF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土四",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 350,
+          "like_count": 958,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 575
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

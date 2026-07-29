@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057743680061255680",
+    "conversation_id": "2077675998695596043",
+    "created_at": "2026-07-18T02:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T03:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078310869365407963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2052980213823442944",
+          "start": 0,
+          "username": "qlzrpry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078310869365407963",
+    "in_reply_to_user_id": "2052980213823442944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077675998695596043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qlzrpry まつげがとてもきれい！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 795,
+        "media_key": "3_2077675989619159040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVjTfebsAAsa9y.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2077675998695596043",
+        "created_at": "2026-07-18T02:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T03:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078310869365407963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2052980213823442944",
+              "start": 0,
+              "username": "qlzrpry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078310869365407963",
+        "in_reply_to_user_id": "2052980213823442944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077675998695596043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qlzrpry まつげがとてもきれい！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077675989619159040"
+          ]
+        },
+        "author_id": "2052980213823442944",
+        "conversation_id": "2077675998695596043",
+        "created_at": "2026-07-16T08:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077675998695596043"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 20,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6nHvePWVSH",
+              "end": 50,
+              "expanded_url": "https://x.com/qlzrpry/status/2077675998695596043/photo/1",
+              "media_key": "3_2077675989619159040",
+              "start": 27,
+              "url": "https://t.co/6nHvePWVSH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077675998695596043",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 10644,
+          "like_count": 751,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "強い目にピアスバチバチが好き（過去画）\n#自撮り界隈 https://t.co/6nHvePWVSH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀（🦋同名只发drug）\n不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/9aTLaOashy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 113,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 90,
+                "url": "https://t.co/9aTLaOashy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2075645184621330511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 407,
+          "like_count": 2880,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 991
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T05:14:05.000Z",
+        "description": "🈂️ﾌﾞ的な@c0kjc  ｸｿﾌｪﾐ垢@d031ku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 6,
+                "username": "c0kjc"
+              },
+              {
+                "end": 27,
+                "start": 20,
+                "username": "d031ku"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/wan._.n31?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/wan._.n31?igsh=bW1kcjhkM3kweWRm&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/BWACypi29E"
+              }
+            ]
+          }
+        },
+        "id": "2052980213823442944",
+        "location": "ﾌﾟﾗｲﾍﾞｰﾄﾓｰﾄﾞ†",
+        "name": "姫ゅ◞❤︎",
+        "pinned_tweet_id": "2071899785280504303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052980753412292608/G2XOpFLr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 8,
+          "like_count": 4466,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 220
+        },
+        "url": "https://t.co/BWACypi29E",
+        "username": "qlzrpry",
+        "verified": false
+      }
+    ]
+  }
+}

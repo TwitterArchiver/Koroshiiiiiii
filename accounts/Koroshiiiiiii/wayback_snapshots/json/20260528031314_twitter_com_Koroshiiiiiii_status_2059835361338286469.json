@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2059653029679480832"
+      ],
+      "media_source_tweet_id": [
+        "2059653052718789024"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "conversation_id": "2059835361338286469",
+    "created_at": "2026-05-28T03:13:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T04:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059835361338286469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2013237543110955008",
+          "start": 3,
+          "username": "sayxka_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F1Gmd5DFpD",
+          "end": 44,
+          "expanded_url": "https://x.com/sayxka_/status/2059653052718789024/photo/1",
+          "media_key": "16_2059653029679480832",
+          "start": 21,
+          "url": "https://t.co/F1Gmd5DFpD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059835361338286469",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 957
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059653052718789024",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sayxka_: ダーリンダンス https://t.co/F1Gmd5DFpD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "16_2059653029679480832",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJVbhJqaQAA6FEA.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJVbhJqaQAA6FEA.mp4"
+          }
+        ],
+        "width": 1310
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2059653029679480832"
+          ],
+          "media_source_tweet_id": [
+            "2059653052718789024"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2059835361338286469",
+        "created_at": "2026-05-28T03:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059835361338286469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2013237543110955008",
+              "start": 3,
+              "username": "sayxka_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F1Gmd5DFpD",
+              "end": 44,
+              "expanded_url": "https://x.com/sayxka_/status/2059653052718789024/photo/1",
+              "media_key": "16_2059653029679480832",
+              "start": 21,
+              "url": "https://t.co/F1Gmd5DFpD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059835361338286469",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 957
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059653052718789024",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sayxka_: ダーリンダンス https://t.co/F1Gmd5DFpD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2059653029679480832"
+          ]
+        },
+        "author_id": "2013237543110955008",
+        "conversation_id": "2059653052718789024",
+        "created_at": "2026-05-27T15:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059653052718789024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F1Gmd5DFpD",
+              "end": 31,
+              "expanded_url": "https://x.com/sayxka_/status/2059653052718789024/photo/1",
+              "media_key": "16_2059653029679480832",
+              "start": 8,
+              "url": "https://t.co/F1Gmd5DFpD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059653052718789024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 356,
+          "impression_count": 36059,
+          "like_count": 4459,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 957
+        },
+        "reply_settings": "everyone",
+        "text": "ダーリンダンス https://t.co/F1Gmd5DFpD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AiSMfPiELF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 129,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 106,
+                "url": "https://t.co/AiSMfPiELF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土四",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 265,
+          "like_count": 402,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 281
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T13:10:16.000Z",
+        "description": "Main @i_loxe_u",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "i_loxe_u"
+              }
+            ]
+          }
+        },
+        "id": "2013237543110955008",
+        "location": "さやか",
+        "name": "໊",
+        "pinned_tweet_id": "2059264956353409068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058926544857526272/sgLLrCuf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 1,
+          "like_count": 395,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 3
+        },
+        "username": "sayxka_",
+        "verified": false
+      }
+    ]
+  }
+}

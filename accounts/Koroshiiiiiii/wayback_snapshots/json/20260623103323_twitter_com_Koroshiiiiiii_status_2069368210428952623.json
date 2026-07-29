@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2069368125183975424"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "conversation_id": "2069368210428952623",
+    "created_at": "2026-06-23T10:33:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T11:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069368210428952623"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h1E52golCS",
+          "end": 47,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2069368210428952623/video/1",
+          "media_key": "13_2069368125183975424",
+          "start": 24,
+          "url": "https://t.co/h1E52golCS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069368210428952623",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "麻绳总往细处断...买了点一滴灵，一定要有用啊 https://t.co/h1E52golCS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21585,
+        "height": 1280,
+        "media_key": "13_2069368125183975424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069368125183975424/img/UGXOcqUQyF05VTuV.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069368125183975424/vid/avc1/320x568/6wklwn9PT4bRmlV9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069368125183975424/vid/avc1/480x852/Cv17DGA4ergZN0l1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069368125183975424/vid/avc1/720x1280/fnlXRLX19QOFLCrk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069368125183975424/pl/XODIBqgJ5Glb8M0b.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069368125183975424"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2069368210428952623",
+        "created_at": "2026-06-23T10:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069368210428952623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h1E52golCS",
+              "end": 47,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2069368210428952623/video/1",
+              "media_key": "13_2069368125183975424",
+              "start": 24,
+              "url": "https://t.co/h1E52golCS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069368210428952623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "麻绳总往细处断...买了点一滴灵，一定要有用啊 https://t.co/h1E52golCS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/bo7UxZdgdF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cg7KXvKW0Nb1…",
+                "end": 112,
+                "expanded_url": "https://www.kdocs.cn/l/cg7KXvKW0Nb1?f=301",
+                "start": 89,
+                "url": "https://t.co/bo7UxZdgdF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/kGVlVzRycD"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 335,
+          "like_count": 1779,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 768
+        },
+        "url": "https://t.co/kGVlVzRycD",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

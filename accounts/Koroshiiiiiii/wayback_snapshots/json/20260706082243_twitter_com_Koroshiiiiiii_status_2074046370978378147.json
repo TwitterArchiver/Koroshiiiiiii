@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057743680061255680",
+    "conversation_id": "2074046370978378147",
+    "created_at": "2026-07-06T08:22:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T09:22:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074046370978378147"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/grfbb22556/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/grfbb22556/status/2074021083888734567",
+          "start": 2,
+          "url": "https://t.co/Uh3HG5DNBu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074046370978378147",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074021083888734567",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有 https://t.co/Uh3HG5DNBu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2074046370978378147",
+        "created_at": "2026-07-06T08:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074046370978378147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/grfbb22556/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/grfbb22556/status/2074021083888734567",
+              "start": 2,
+              "url": "https://t.co/Uh3HG5DNBu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074046370978378147",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074021083888734567",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有 https://t.co/Uh3HG5DNBu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897901287834107905",
+        "conversation_id": "2074015187427021165",
+        "created_at": "2026-07-06T06:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T07:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074021083888734567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057743680061255680",
+              "start": 0,
+              "username": "Koroshiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074021083888734567",
+        "in_reply_to_user_id": "2057743680061255680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074015187427021165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koroshiiiiiii 能吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/9aTLaOashy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 112,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 89,
+                "url": "https://t.co/9aTLaOashy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰（被ghostban了还没好",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 355,
+          "like_count": 2269,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 865
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T06:45:12.000Z",
+        "description": "精神边缘人 堪堪废料堆 求得真道理 配作假慈悲",
+        "id": "1897901287834107905",
+        "name": "边缘废料",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025686705991495680/iHqitj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 152,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 263
+        },
+        "url": "",
+        "username": "GrfbB22556",
+        "verified": false
+      }
+    ]
+  }
+}

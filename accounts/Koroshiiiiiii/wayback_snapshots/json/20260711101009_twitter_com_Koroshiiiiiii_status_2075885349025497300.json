@@ -1,0 +1,455 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2075796590535786496"
+      ],
+      "media_source_tweet_id": [
+        "2075796658173218965"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "839543390668673024",
+          "name": "Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Necklaces",
+          "id": "1030537479286190080",
+          "name": "Necklaces"
+        }
+      }
+    ],
+    "conversation_id": "2075885349025497300",
+    "created_at": "2026-07-11T10:10:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T11:10:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075885349025497300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757380999548383232",
+          "start": 3,
+          "username": "yunochi_01_n"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CfSDzo6ymS",
+          "end": 80,
+          "expanded_url": "https://x.com/yunochi_01_n/status/2075796658173218965/video/1",
+          "media_key": "13_2075796590535786496",
+          "start": 57,
+          "url": "https://t.co/CfSDzo6ymS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075885349025497300",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075796658173218965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yunochi_01_n: ほま、このネックレス可愛い…💕\n全地雷女子につけて欲しい( ᐡᴗ ̫ ᴗᐡ) https://t.co/CfSDzo6ymS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7733,
+        "height": 1280,
+        "media_key": "13_2075796590535786496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075796590535786496/img/QXvvl4iBOkr-e3IZ.jpg",
+        "public_metrics": {
+          "view_count": 7459
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075796590535786496/vid/avc1/320x568/q68pOF9I-5YZP4fz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075796590535786496/vid/avc1/480x852/YH7qP7ScXSN4J5kP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075796590535786496/vid/avc1/720x1280/q_Y_JoUFQ-OKZ7cU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075796590535786496/pl/fQE26vaGOzUDA17e.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075796590535786496"
+          ],
+          "media_source_tweet_id": [
+            "2075796658173218965"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Necklaces",
+              "id": "1030537479286190080",
+              "name": "Necklaces"
+            }
+          }
+        ],
+        "conversation_id": "2075885349025497300",
+        "created_at": "2026-07-11T10:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075885349025497300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757380999548383232",
+              "start": 3,
+              "username": "yunochi_01_n"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CfSDzo6ymS",
+              "end": 80,
+              "expanded_url": "https://x.com/yunochi_01_n/status/2075796658173218965/video/1",
+              "media_key": "13_2075796590535786496",
+              "start": 57,
+              "url": "https://t.co/CfSDzo6ymS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075885349025497300",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075796658173218965",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yunochi_01_n: ほま、このネックレス可愛い…💕\n全地雷女子につけて欲しい( ᐡᴗ ̫ ᴗᐡ) https://t.co/CfSDzo6ymS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075796590535786496"
+          ]
+        },
+        "author_id": "1757380999548383232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Necklaces",
+              "id": "1030537479286190080",
+              "name": "Necklaces"
+            }
+          }
+        ],
+        "conversation_id": "2075796658173218965",
+        "created_at": "2026-07-11T04:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075796658173218965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CfSDzo6ymS",
+              "end": 62,
+              "expanded_url": "https://x.com/yunochi_01_n/status/2075796658173218965/video/1",
+              "media_key": "13_2075796590535786496",
+              "start": 39,
+              "url": "https://t.co/CfSDzo6ymS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075796658173218965",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 30686,
+          "like_count": 1684,
+          "quote_count": 9,
+          "reply_count": 9,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "ほま、このネックレス可愛い…💕\n全地雷女子につけて欲しい( ᐡᴗ ̫ ᴗᐡ) https://t.co/CfSDzo6ymS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/9aTLaOashy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 112,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 89,
+                "url": "https://t.co/9aTLaOashy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2075645184621330511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 381,
+          "like_count": 2504,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 900
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-13T12:27:44.000Z",
+        "description": "🎀地雷系クリエイター🎀\n地雷・メイク・イラスト・音楽\n𝑷𝒓𝒐𝒅𝒖𝒄𝒆𝒅 & 𝑪𝒓𝒆𝒂𝒕𝒊𝒗𝒆 𝑫𝒊𝒓𝒆𝒄𝒕𝒆𝒅 𝒃𝒚→@alco888alco\n📩 お仕事依頼はDMまで♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "alco888alco"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@yunochi_05_n?…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@yunochi_05_n?_r=1&_t=ZS-94NZcnvEjxM",
+                "start": 0,
+                "url": "https://t.co/fAxkNRM9F0"
+              }
+            ]
+          }
+        },
+        "id": "1757380999548383232",
+        "location": "DM返信できません",
+        "name": "萌乃ゆの໒꒱",
+        "pinned_tweet_id": "2074027176509526220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053744075355082752/kdpr8L4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9980,
+          "following_count": 56,
+          "like_count": 1471,
+          "listed_count": 7,
+          "media_count": 259,
+          "tweet_count": 1045
+        },
+        "url": "https://t.co/fAxkNRM9F0",
+        "username": "yunochi_01_n",
+        "verified": false
+      }
+    ]
+  }
+}

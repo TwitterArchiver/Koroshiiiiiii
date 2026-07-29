@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063658599344472064",
+        "3_2063658599356997632"
+      ],
+      "media_source_tweet_id": [
+        "2063658637592334421",
+        "2063658637592334421"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "conversation_id": "2063813513425072254",
+    "created_at": "2026-06-08T02:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T03:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063813513425072254"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 23,
+          "tag": "スーパーの裏でヤニ吸うふたり"
+        },
+        {
+          "end": 44,
+          "start": 39,
+          "tag": "ヤニすう"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1165481189114830854",
+          "start": 3,
+          "username": "morimi_akashi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2TTP3amRh5",
+          "end": 68,
+          "expanded_url": "https://x.com/morimi_akashi/status/2063658637592334421/photo/1",
+          "media_key": "3_2063658599344472064",
+          "start": 45,
+          "url": "https://t.co/2TTP3amRh5"
+        },
+        {
+          "display_url": "pic.x.com/2TTP3amRh5",
+          "end": 68,
+          "expanded_url": "https://x.com/morimi_akashi/status/2063658637592334421/photo/1",
+          "media_key": "3_2063658599356997632",
+          "start": 45,
+          "url": "https://t.co/2TTP3amRh5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063813513425072254",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 605
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063658637592334421",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @morimi_akashi: 🚬？\n\n#スーパーの裏でヤニ吸うふたり\n#ヤニすう https://t.co/2TTP3amRh5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3053,
+        "media_key": "3_2063658599344472064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOWj_ebgAA2yF4.jpg",
+        "width": 2291
+      },
+      {
+        "height": 1556,
+        "media_key": "3_2063658599356997632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOWj_haoAACyvY.jpg",
+        "width": 1167
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063658599344472064",
+            "3_2063658599356997632"
+          ],
+          "media_source_tweet_id": [
+            "2063658637592334421",
+            "2063658637592334421"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2063813513425072254",
+        "created_at": "2026-06-08T02:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063813513425072254"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 23,
+              "tag": "スーパーの裏でヤニ吸うふたり"
+            },
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "ヤニすう"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1165481189114830854",
+              "start": 3,
+              "username": "morimi_akashi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2TTP3amRh5",
+              "end": 68,
+              "expanded_url": "https://x.com/morimi_akashi/status/2063658637592334421/photo/1",
+              "media_key": "3_2063658599344472064",
+              "start": 45,
+              "url": "https://t.co/2TTP3amRh5"
+            },
+            {
+              "display_url": "pic.x.com/2TTP3amRh5",
+              "end": 68,
+              "expanded_url": "https://x.com/morimi_akashi/status/2063658637592334421/photo/1",
+              "media_key": "3_2063658599356997632",
+              "start": 45,
+              "url": "https://t.co/2TTP3amRh5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063813513425072254",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 605
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063658637592334421",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @morimi_akashi: 🚬？\n\n#スーパーの裏でヤニ吸うふたり\n#ヤニすう https://t.co/2TTP3amRh5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063658599344472064",
+            "3_2063658599356997632"
+          ]
+        },
+        "author_id": "1165481189114830854",
+        "conversation_id": "2063658637592334421",
+        "created_at": "2026-06-07T16:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063658637592334421"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 4,
+              "tag": "スーパーの裏でヤニ吸うふたり"
+            },
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "ヤニすう"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2TTP3amRh5",
+              "end": 49,
+              "expanded_url": "https://x.com/morimi_akashi/status/2063658637592334421/photo/1",
+              "media_key": "3_2063658599344472064",
+              "start": 26,
+              "url": "https://t.co/2TTP3amRh5"
+            },
+            {
+              "display_url": "pic.x.com/2TTP3amRh5",
+              "end": 49,
+              "expanded_url": "https://x.com/morimi_akashi/status/2063658637592334421/photo/1",
+              "media_key": "3_2063658599356997632",
+              "start": 26,
+              "url": "https://t.co/2TTP3amRh5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063658637592334421",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1011,
+          "impression_count": 203194,
+          "like_count": 9613,
+          "quote_count": 14,
+          "reply_count": 13,
+          "retweet_count": 605
+        },
+        "reply_settings": "everyone",
+        "text": "🚬？\n\n#スーパーの裏でヤニ吸うふたり\n#ヤニすう https://t.co/2TTP3amRh5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，仅私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AiSMfPiELF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 126,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 103,
+                "url": "https://t.co/AiSMfPiELF"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土四",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 297,
+          "like_count": 1205,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 690
+        },
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-25T04:29:14.000Z",
+        "description": "無断転載禁止(Do not repost)🐈🥁🎸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/7280528578",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/7280528578",
+                "start": 0,
+                "url": "https://t.co/UNknbjoPRv"
+              }
+            ]
+          }
+        },
+        "id": "1165481189114830854",
+        "location": "China",
+        "name": "森見明石Morimi",
+        "pinned_tweet_id": "1565390316483780608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1540366193634095104/g1eDm81g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6501,
+          "following_count": 69,
+          "like_count": 1142,
+          "listed_count": 22,
+          "media_count": 121,
+          "tweet_count": 269
+        },
+        "url": "https://t.co/UNknbjoPRv",
+        "username": "morimi_akashi",
+        "verified": false
+      }
+    ]
+  }
+}

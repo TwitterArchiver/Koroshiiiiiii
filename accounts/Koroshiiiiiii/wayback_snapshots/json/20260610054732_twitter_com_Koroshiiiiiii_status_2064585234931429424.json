@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064585213850931200",
+        "3_2064585213678931968",
+        "3_2064585213657985024",
+        "3_2064585213649522688"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "conversation_id": "2064585234931429424",
+    "created_at": "2026-06-10T05:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064585234931429424"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rNN72ACNEq",
+          "end": 31,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2064585234931429424/photo/1",
+          "media_key": "3_2064585213850931200",
+          "start": 8,
+          "url": "https://t.co/rNN72ACNEq"
+        },
+        {
+          "display_url": "pic.x.com/rNN72ACNEq",
+          "end": 31,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2064585234931429424/photo/1",
+          "media_key": "3_2064585213678931968",
+          "start": 8,
+          "url": "https://t.co/rNN72ACNEq"
+        },
+        {
+          "display_url": "pic.x.com/rNN72ACNEq",
+          "end": 31,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2064585234931429424/photo/1",
+          "media_key": "3_2064585213657985024",
+          "start": 8,
+          "url": "https://t.co/rNN72ACNEq"
+        },
+        {
+          "display_url": "pic.x.com/rNN72ACNEq",
+          "end": 31,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2064585234931429424/photo/1",
+          "media_key": "3_2064585213649522688",
+          "start": 8,
+          "url": "https://t.co/rNN72ACNEq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064585234931429424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "带松果遛弯儿😋 https://t.co/rNN72ACNEq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2064585234931429424].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2064585234931429424",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2064585234931429424"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2064585213850931200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbhUDgb0AAiBWn.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1428,
+        "media_key": "3_2064585213678931968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbhUC3bUAArKgT.jpg",
+        "width": 1071
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2064585213657985024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbhUCybsAAmExu.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2064585213649522688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbhUCwakAAwsD-.jpg",
+        "width": 4096
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，仅私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AiSMfPiELF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 126,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 103,
+                "url": "https://t.co/AiSMfPiELF"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土四",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 302,
+          "like_count": 1329,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 746
+        },
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

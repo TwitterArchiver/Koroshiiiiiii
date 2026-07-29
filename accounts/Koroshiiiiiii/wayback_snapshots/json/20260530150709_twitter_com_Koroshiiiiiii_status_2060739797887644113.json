@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060739791009075200"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "conversation_id": "2060739797887644113",
+    "created_at": "2026-05-30T15:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060739797887644113"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FF57OxYVvu",
+          "end": 106,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2060739797887644113/photo/1",
+          "media_key": "3_2060739791009075200",
+          "start": 83,
+          "url": "https://t.co/FF57OxYVvu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060739797887644113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊...被烟天天熏黄的厕所...怎么办...虽然家人都知道我吸烟，但我也只会在厕所抽，每抽完我都会刷一遍牙，擦一遍鼻子已经是我的习惯了，我好讨厌，又好像没办法... https://t.co/FF57OxYVvu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060739791009075200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJk36_Gb0AA1xTR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060739791009075200"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2060739797887644113",
+        "created_at": "2026-05-30T15:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060739797887644113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FF57OxYVvu",
+              "end": 106,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2060739797887644113/photo/1",
+              "media_key": "3_2060739791009075200",
+              "start": 83,
+              "url": "https://t.co/FF57OxYVvu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060739797887644113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊...被烟天天熏黄的厕所...怎么办...虽然家人都知道我吸烟，但我也只会在厕所抽，每抽完我都会刷一遍牙，擦一遍鼻子已经是我的习惯了，我好讨厌，又好像没办法... https://t.co/FF57OxYVvu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AiSMfPiELF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 129,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 106,
+                "url": "https://t.co/AiSMfPiELF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土四",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 305,
+          "like_count": 610,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 364
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064679556586618880",
+        "3_2064679556590850048"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "conversation_id": "2064679590589874253",
+    "created_at": "2026-06-10T12:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064679590589874253"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nl6SISaFiX",
+          "end": 39,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2064679590589874253/photo/1",
+          "media_key": "3_2064679556586618880",
+          "start": 16,
+          "url": "https://t.co/nl6SISaFiX"
+        },
+        {
+          "display_url": "pic.x.com/nl6SISaFiX",
+          "end": 39,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2064679590589874253/photo/1",
+          "media_key": "3_2064679556590850048",
+          "start": 16,
+          "url": "https://t.co/nl6SISaFiX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064679590589874253",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啥也别说了荔枝99！！呃啊啊啊 https://t.co/nl6SISaFiX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2064679556586618880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKc3HhlbQAAo6Fa.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2064679556590850048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKc3Hhmb0AAwvfk.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064679556586618880",
+            "3_2064679556590850048"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2064679590589874253",
+        "created_at": "2026-06-10T12:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064679590589874253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nl6SISaFiX",
+              "end": 39,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2064679590589874253/photo/1",
+              "media_key": "3_2064679556586618880",
+              "start": 16,
+              "url": "https://t.co/nl6SISaFiX"
+            },
+            {
+              "display_url": "pic.x.com/nl6SISaFiX",
+              "end": 39,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2064679590589874253/photo/1",
+              "media_key": "3_2064679556590850048",
+              "start": 16,
+              "url": "https://t.co/nl6SISaFiX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064679590589874253",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啥也别说了荔枝99！！呃啊啊啊 https://t.co/nl6SISaFiX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，仅私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AiSMfPiELF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 126,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 103,
+                "url": "https://t.co/AiSMfPiELF"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土四",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 302,
+          "like_count": 1363,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 766
+        },
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

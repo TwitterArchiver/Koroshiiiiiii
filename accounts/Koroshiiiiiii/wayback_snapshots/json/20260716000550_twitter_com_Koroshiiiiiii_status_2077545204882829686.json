@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057743680061255680",
+    "conversation_id": "2077246912768639354",
+    "created_at": "2026-07-16T00:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T01:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077545204882829686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1937925047458664449",
+          "start": 0,
+          "username": "WiaAir"
+        },
+        {
+          "end": 18,
+          "id": "1686428350657740801",
+          "start": 8,
+          "username": "cpshgsdfg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077545204882829686",
+    "in_reply_to_user_id": "1937925047458664449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077371804554011102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WiaAir @cpshgsdfg 医生我神经痛，医生我焦虑🤬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2077246912768639354",
+        "created_at": "2026-07-16T00:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T01:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077545204882829686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1937925047458664449",
+              "start": 0,
+              "username": "WiaAir"
+            },
+            {
+              "end": 18,
+              "id": "1686428350657740801",
+              "start": 8,
+              "username": "cpshgsdfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077545204882829686",
+        "in_reply_to_user_id": "1937925047458664449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077371804554011102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WiaAir @cpshgsdfg 医生我神经痛，医生我焦虑🤬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937925047458664449",
+        "conversation_id": "2077246912768639354",
+        "created_at": "2026-07-15T12:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077371804554011102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057743680061255680",
+              "start": 0,
+              "username": "Koroshiiiiiii"
+            },
+            {
+              "end": 25,
+              "id": "1686428350657740801",
+              "start": 15,
+              "username": "cpshgsdfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077371804554011102",
+        "in_reply_to_user_id": "2057743680061255680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077247543105515548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koroshiiiiiii @cpshgsdfg 医生我精神痛..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/9aTLaOashy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 112,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 89,
+                "url": "https://t.co/9aTLaOashy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2075645184621330511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 395,
+          "like_count": 2750,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 974
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T17:26:44.000Z",
+        "description": "=小寒/She Her/自伤/od/精神状态不稳定/文艺比/消肿比/纯血铜仁钕/交友大欢迎/LGBTQ+全肯定\n1.0：@AirWiaAir\n🦋指路：ChillyWinter",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "AirWiaAir"
+              }
+            ]
+          }
+        },
+        "id": "1937925047458664449",
+        "name": "故我遠涉她方〔小寒2.0〕",
+        "pinned_tweet_id": "2068356273662500966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061314473768718337/LusnPfoj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 106,
+          "like_count": 393,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "WiaAir",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-01T17:27:14.000Z",
+        "description": "这里是罗夏，神秘日常男。每周一，周四十二点分享健身日常，不要问为什么是这个时间，因为那两天刚好练胸练腹。私信都会看，发屌的不回。有门槛🚪（互关免门），但是大家有什么想找我的可以给我发私信。\n最近状态很差暂时停更",
+        "id": "1686428350657740801",
+        "location": "🚪52/88/188/520/1888",
+        "name": "ozymandias",
+        "pinned_tweet_id": "2055329252506243491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001229435710951424/PNJO_XDB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4611,
+          "following_count": 301,
+          "like_count": 719,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 1490
+        },
+        "url": "",
+        "username": "cpshgsdfg",
+        "verified": false
+      }
+    ]
+  }
+}

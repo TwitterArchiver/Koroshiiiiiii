@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057743680061255680",
+    "conversation_id": "2067525033694797888",
+    "created_at": "2026-06-18T08:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067525033694797888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ],
+      "urls": [
+        {
+          "description": "FreeODwiki, 人人都可以编辑的Overdose百科全书. Contribute to SalviaSWC/FreeODwiki development by creating an account on GitHub.",
+          "display_url": "github.com/SalviaSWC/Free…",
+          "end": 138,
+          "expanded_url": "https://github.com/SalviaSWC/FreeODwiki/blob/main/%E6%8A%A5%E5%91%8A/erowid/86484.md",
+          "images": [
+            {
+              "height": 615,
+              "url": "https://pbs.twimg.com/news_img/2046866639639965696/f5t9-AcV?format=png&name=orig",
+              "width": 686
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2046866639639965696/f5t9-AcV?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 115,
+          "status": 200,
+          "title": "FreeODwiki/报告/erowid/86484.md at main · SalviaSWC/FreeODwiki",
+          "unwound_url": "https://github.com/SalviaSWC/FreeODwiki/blob/main/%E6%8A%A5%E5%91%8A/erowid/86484.md",
+          "url": "https://t.co/12EQm5rXyx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067525033694797888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046866596631621936",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: 药物报告day6——鼠尾草🌿\n\n“我”误吸90倍的鼠尾草提取物，经历强烈致幻体验，并留下身心后遗症。\n\n“现实整个碎裂开来，而我被遗留在这个分形虚空之中”\n\n文字版：（附上选文高考语文阅读理解10题）https://t.co/12EQm5rXyx…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3276,
+        "media_key": "3_2046629533604872192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcWt6FXgAAcwfo.jpg",
+        "width": 1762
+      },
+      {
+        "height": 3276,
+        "media_key": "3_2046630005942222848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcXJZrXgAAjFFy.jpg",
+        "width": 1127
+      },
+      {
+        "height": 3276,
+        "media_key": "3_2046630027899424768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcXKreX0AA8sEb.jpg",
+        "width": 998
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2067525033694797888",
+        "created_at": "2026-06-18T08:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067525033694797888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "description": "FreeODwiki, 人人都可以编辑的Overdose百科全书. Contribute to SalviaSWC/FreeODwiki development by creating an account on GitHub.",
+              "display_url": "github.com/SalviaSWC/Free…",
+              "end": 138,
+              "expanded_url": "https://github.com/SalviaSWC/FreeODwiki/blob/main/%E6%8A%A5%E5%91%8A/erowid/86484.md",
+              "images": [
+                {
+                  "height": 615,
+                  "url": "https://pbs.twimg.com/news_img/2046866639639965696/f5t9-AcV?format=png&name=orig",
+                  "width": 686
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2046866639639965696/f5t9-AcV?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 115,
+              "status": 200,
+              "title": "FreeODwiki/报告/erowid/86484.md at main · SalviaSWC/FreeODwiki",
+              "unwound_url": "https://github.com/SalviaSWC/FreeODwiki/blob/main/%E6%8A%A5%E5%91%8A/erowid/86484.md",
+              "url": "https://t.co/12EQm5rXyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067525033694797888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046866596631621936",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: 药物报告day6——鼠尾草🌿\n\n“我”误吸90倍的鼠尾草提取物，经历强烈致幻体验，并留下身心后遗症。\n\n“现实整个碎裂开来，而我被遗留在这个分形虚空之中”\n\n文字版：（附上选文高考语文阅读理解10题）https://t.co/12EQm5rXyx…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046629533604872192",
+            "3_2046630005942222848",
+            "3_2046630027899424768"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2046866596631621936",
+        "created_at": "2026-04-22T08:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T09:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046866596631621936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "FreeODwiki, 人人都可以编辑的Overdose百科全书. Contribute to SalviaSWC/FreeODwiki development by creating an account on GitHub.",
+              "display_url": "github.com/SalviaSWC/Free…",
+              "end": 123,
+              "expanded_url": "https://github.com/SalviaSWC/FreeODwiki/blob/main/%E6%8A%A5%E5%91%8A/erowid/86484.md",
+              "images": [
+                {
+                  "height": 615,
+                  "url": "https://pbs.twimg.com/news_img/2046866639639965696/f5t9-AcV?format=png&name=orig",
+                  "width": 686
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2046866639639965696/f5t9-AcV?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 100,
+              "status": 200,
+              "title": "FreeODwiki/报告/erowid/86484.md at main · SalviaSWC/FreeODwiki",
+              "unwound_url": "https://github.com/SalviaSWC/FreeODwiki/blob/main/%E6%8A%A5%E5%91%8A/erowid/86484.md",
+              "url": "https://t.co/12EQm5rXyx"
+            },
+            {
+              "display_url": "pic.x.com/Ry1hkRCVtQ",
+              "end": 147,
+              "expanded_url": "https://x.com/SalviaSWC/status/2046866596631621936/photo/1",
+              "media_key": "3_2046629533604872192",
+              "start": 124,
+              "url": "https://t.co/Ry1hkRCVtQ"
+            },
+            {
+              "display_url": "pic.x.com/Ry1hkRCVtQ",
+              "end": 147,
+              "expanded_url": "https://x.com/SalviaSWC/status/2046866596631621936/photo/1",
+              "media_key": "3_2046630005942222848",
+              "start": 124,
+              "url": "https://t.co/Ry1hkRCVtQ"
+            },
+            {
+              "display_url": "pic.x.com/Ry1hkRCVtQ",
+              "end": 147,
+              "expanded_url": "https://x.com/SalviaSWC/status/2046866596631621936/photo/1",
+              "media_key": "3_2046630027899424768",
+              "start": 124,
+              "url": "https://t.co/Ry1hkRCVtQ"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2046504208539832626",
+              "start": 148,
+              "url": "https://t.co/Njso2vD11z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046866596631621936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 10722,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046504208539832626",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物报告day6——鼠尾草🌿\n\n“我”误吸90倍的鼠尾草提取物，经历强烈致幻体验，并留下身心后遗症。\n\n“现实整个碎裂开来，而我被遗留在这个分形虚空之中”\n\n文字版：（附上选文高考语文阅读理解10题）https://t.co/12EQm5rXyx https://t.co/Ry1hkRCVtQ https://t.co/Njso2vD11z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "嘴替@MaoYe119\n可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/41xEgoJkTr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "MaoYe119"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cg7KXvKW0Nb1…",
+                "end": 124,
+                "expanded_url": "https://www.kdocs.cn/l/cg7KXvKW0Nb1?f=301",
+                "start": 101,
+                "url": "https://t.co/41xEgoJkTr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 326,
+          "like_count": 1650,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 818
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4861,
+          "following_count": 1018,
+          "like_count": 24606,
+          "listed_count": 12,
+          "media_count": 555,
+          "tweet_count": 7925
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

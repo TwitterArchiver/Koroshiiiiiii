@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077278357994250240"
+      ],
+      "media_source_tweet_id": [
+        "2077278367787978891"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "conversation_id": "2077595735512797381",
+    "created_at": "2026-07-16T03:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T04:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077595735512797381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2025216486760157184",
+          "start": 3,
+          "username": "Cosmo2267651"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LWsgAF7l4r",
+          "end": 57,
+          "expanded_url": "https://x.com/Cosmo2267651/status/2077278367787978891/photo/1",
+          "media_key": "3_2077278357994250240",
+          "start": 34,
+          "url": "https://t.co/LWsgAF7l4r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077595735512797381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077278367787978891",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cosmo2267651: 可以帮忙转发一下嘛☺️🥹🥹🥹🥹 https://t.co/LWsgAF7l4r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 712,
+        "media_key": "3_2077278357994250240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNP5qSPaoAAxD3C.jpg",
+        "width": 1083
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077278357994250240"
+          ],
+          "media_source_tweet_id": [
+            "2077278367787978891"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2077595735512797381",
+        "created_at": "2026-07-16T03:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T04:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077595735512797381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025216486760157184",
+              "start": 3,
+              "username": "Cosmo2267651"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LWsgAF7l4r",
+              "end": 57,
+              "expanded_url": "https://x.com/Cosmo2267651/status/2077278367787978891/photo/1",
+              "media_key": "3_2077278357994250240",
+              "start": 34,
+              "url": "https://t.co/LWsgAF7l4r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077595735512797381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077278367787978891",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cosmo2267651: 可以帮忙转发一下嘛☺️🥹🥹🥹🥹 https://t.co/LWsgAF7l4r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077278357994250240"
+          ]
+        },
+        "author_id": "2025216486760157184",
+        "conversation_id": "2077278367787978891",
+        "created_at": "2026-07-15T06:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077278367787978891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LWsgAF7l4r",
+              "end": 39,
+              "expanded_url": "https://x.com/Cosmo2267651/status/2077278367787978891/photo/1",
+              "media_key": "3_2077278357994250240",
+              "start": 16,
+              "url": "https://t.co/LWsgAF7l4r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077278367787978891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1014,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "可以帮忙转发一下嘛☺️🥹🥹🥹🥹 https://t.co/LWsgAF7l4r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/9aTLaOashy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 112,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 89,
+                "url": "https://t.co/9aTLaOashy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2075645184621330511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 396,
+          "like_count": 2764,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 981
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T14:30:21.000Z",
+        "description": "cn苗苗、很好相处的！欢迎私信我、he。 查成分（fo）🈚️雷点。 泛性恋",
+        "id": "2025216486760157184",
+        "location": "成都",
+        "name": "なえ",
+        "pinned_tweet_id": "2077278367787978891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076599066172239872/T_QdGKWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 464,
+          "like_count": 2291,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 377
+        },
+        "url": "",
+        "username": "Cosmo2267651",
+        "verified": false
+      }
+    ]
+  }
+}

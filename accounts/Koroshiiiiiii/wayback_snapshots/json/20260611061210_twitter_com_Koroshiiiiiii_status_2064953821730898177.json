@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057743680061255680",
+    "conversation_id": "2064953821730898177",
+    "created_at": "2026-06-11T06:12:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T07:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064953821730898177"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nonentity_xxx1…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/nonentity_xxx17/status/2064926614115504357",
+          "start": 10,
+          "url": "https://t.co/Q5niNDlUPo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064953821730898177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064926614115504357",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不知道啊，就是魔啊 https://t.co/Q5niNDlUPo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064926600962150400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgXzZmakAAbG5T.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2064953821730898177",
+        "created_at": "2026-06-11T06:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064953821730898177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nonentity_xxx1…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/nonentity_xxx17/status/2064926614115504357",
+              "start": 10,
+              "url": "https://t.co/Q5niNDlUPo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064953821730898177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064926614115504357",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不知道啊，就是魔啊 https://t.co/Q5niNDlUPo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064926600962150400"
+          ]
+        },
+        "author_id": "1919465517829783552",
+        "conversation_id": "2064926614115504357",
+        "created_at": "2026-06-11T04:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064926614115504357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7tB5zgZLhl",
+              "end": 23,
+              "expanded_url": "https://x.com/Nonentity_xxx17/status/2064926614115504357/photo/1",
+              "media_key": "3_2064926600962150400",
+              "start": 0,
+              "url": "https://t.co/7tB5zgZLhl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064926614115504357",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 521,
+          "like_count": 30,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7tB5zgZLhl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，仅私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AiSMfPiELF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 126,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 103,
+                "url": "https://t.co/AiSMfPiELF"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土四",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 307,
+          "like_count": 1383,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 775
+        },
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 五年前的我@Xxx_kkkl\n双相I型/低能量/欣赏躯体/魔魔魔魔魔\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xxx_kkkl"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 73,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 50,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 46,
+          "like_count": 1324,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 393
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      }
+    ]
+  }
+}

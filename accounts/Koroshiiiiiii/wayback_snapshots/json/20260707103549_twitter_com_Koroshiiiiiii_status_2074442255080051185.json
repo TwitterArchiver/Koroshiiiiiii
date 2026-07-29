@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057743680061255680",
+    "conversation_id": "2074442255080051185",
+    "created_at": "2026-07-07T10:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T11:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074442255080051185"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/c66pugl/status…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/c66pugl/status/2074440572308447381",
+          "start": 12,
+          "url": "https://t.co/7MuJ94pBQv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074442255080051185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074440572308447381",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "淘宝就有！墨西哥鼠尾草 https://t.co/7MuJ94pBQv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2074442255080051185",
+        "created_at": "2026-07-07T10:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074442255080051185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/c66pugl/status…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/c66pugl/status/2074440572308447381",
+              "start": 12,
+              "url": "https://t.co/7MuJ94pBQv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074442255080051185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074440572308447381",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "淘宝就有！墨西哥鼠尾草 https://t.co/7MuJ94pBQv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684033615926263810",
+        "conversation_id": "2074440572308447381",
+        "created_at": "2026-07-07T10:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074440572308447381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/koroshiiiiiii/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/koroshiiiiiii/status/2074394275434184955",
+              "start": 28,
+              "url": "https://t.co/oOrmy53ZWP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074440572308447381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074394275434184955",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草 我看成叶子了 以为叶子还能进化到这样 那搞的种子啊 https://t.co/oOrmy53ZWP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/9aTLaOashy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 112,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 89,
+                "url": "https://t.co/9aTLaOashy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰（被ghostban了还没好",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 361,
+          "like_count": 2305,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 877
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T02:51:33.000Z",
+        "description": "420/acid/med/stem\n碎碎念；爱较真；",
+        "id": "1684033615926263810",
+        "name": "c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062366495796264960/VRTbk0Zg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 40,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "c66pugl",
+        "verified": false
+      }
+    ]
+  }
+}

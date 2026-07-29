@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2059795755041472512",
+        "3_2059795755049865216"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "conversation_id": "2059795792840491474",
+    "created_at": "2026-05-28T00:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T01:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059795792840491474"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1EEW1yE9pj",
+          "end": 32,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2059795792840491474/photo/1",
+          "media_key": "16_2059795755041472512",
+          "start": 9,
+          "url": "https://t.co/1EEW1yE9pj"
+        },
+        {
+          "display_url": "pic.x.com/1EEW1yE9pj",
+          "end": 32,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2059795792840491474/photo/1",
+          "media_key": "3_2059795755049865216",
+          "start": 9,
+          "url": "https://t.co/1EEW1yE9pj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059795792840491474",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃不完的给发哥吃 https://t.co/1EEW1yE9pj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2059795755041472512",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJXdU3EawAAZ_Gg.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJXdU3EawAAZ_Gg.mp4"
+          }
+        ],
+        "width": 360
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2059795755049865216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJXdU3Ga0AAC_qD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2059795755041472512",
+            "3_2059795755049865216"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2059795792840491474",
+        "created_at": "2026-05-28T00:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T01:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059795792840491474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1EEW1yE9pj",
+              "end": 32,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2059795792840491474/photo/1",
+              "media_key": "16_2059795755041472512",
+              "start": 9,
+              "url": "https://t.co/1EEW1yE9pj"
+            },
+            {
+              "display_url": "pic.x.com/1EEW1yE9pj",
+              "end": 32,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2059795792840491474/photo/1",
+              "media_key": "3_2059795755049865216",
+              "start": 9,
+              "url": "https://t.co/1EEW1yE9pj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059795792840491474",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃不完的给发哥吃 https://t.co/1EEW1yE9pj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AiSMfPiELF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 129,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 106,
+                "url": "https://t.co/AiSMfPiELF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土四",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 265,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 269
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

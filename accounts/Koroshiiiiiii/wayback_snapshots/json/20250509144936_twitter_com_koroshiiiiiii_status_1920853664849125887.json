@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920853596360634369"
+      ]
+    },
+    "author_id": "1628317122945515520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1407374567027314690",
+          "name": "Ado"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1407374567027314690",
+          "name": "Ado"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407374567027314690",
+          "name": "Ado"
+        }
+      }
+    ],
+    "conversation_id": "1920500943516315735",
+    "created_at": "2025-05-09T14:49:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T15:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920853664849125887"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "ADO",
+          "probability": 0.6538,
+          "start": 26,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2929136138",
+          "start": 0,
+          "username": "ado1024imokenp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aHBz0nh8kK",
+          "end": 72,
+          "expanded_url": "https://x.com/koroshiiiiiii/status/1920853664849125887/photo/1",
+          "media_key": "3_1920853596360634369",
+          "start": 49,
+          "url": "https://t.co/aHBz0nh8kK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920853664849125887",
+    "in_reply_to_user_id": "2929136138",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920500943516315735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ado1024imokenp Thank you ADO! Come back soon!!! https://t.co/aHBz0nh8kK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 849,
+        "media_key": "3_1920853596360634369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqg-KzSbcAEq38U.png",
+        "width": 833
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1920500934620139521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqb9bL7W0AEWZzZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920853596360634369"
+          ]
+        },
+        "author_id": "1628317122945515520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          }
+        ],
+        "conversation_id": "1920500943516315735",
+        "created_at": "2025-05-09T14:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T15:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920853664849125887"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "ADO",
+              "probability": 0.6538,
+              "start": 26,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2929136138",
+              "start": 0,
+              "username": "ado1024imokenp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aHBz0nh8kK",
+              "end": 72,
+              "expanded_url": "https://x.com/koroshiiiiiii/status/1920853664849125887/photo/1",
+              "media_key": "3_1920853596360634369",
+              "start": 49,
+              "url": "https://t.co/aHBz0nh8kK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920853664849125887",
+        "in_reply_to_user_id": "2929136138",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920500943516315735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ado1024imokenp Thank you ADO! Come back soon!!! https://t.co/aHBz0nh8kK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920500934620139521"
+          ]
+        },
+        "author_id": "2929136138",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          }
+        ],
+        "conversation_id": "1920500943516315735",
+        "created_at": "2025-05-08T15:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T16:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920500943516315735"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "フィリピン",
+              "probability": 0.9382,
+              "start": 11,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "AdoHibana"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AxTkUi14zY",
+              "end": 178,
+              "expanded_url": "https://x.com/ado1024imokenp/status/1920500943516315735/photo/1",
+              "media_key": "3_1920500934620139521",
+              "start": 155,
+              "url": "https://t.co/AxTkUi14zY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920500943516315735",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 548,
+          "impression_count": 359280,
+          "like_count": 25896,
+          "quote_count": 380,
+          "reply_count": 567,
+          "retweet_count": 3216
+        },
+        "reply_settings": "everyone",
+        "text": "#AdoHibana\nフィリピン公演ありがとうございました！声援が爆発していて最高でした💥\n\nThank you manila! \nIt was my first time in the Philippines and I had a great time! You guys are the best!🇵🇭 https://t.co/AxTkUi14zY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-22T08:54:23.000Z",
+        "description": "I like playing games, and drawing! Honkai: Star Rail, Genshin and CRK are my favorites! ♡",
+        "id": "1628317122945515520",
+        "location": "Belong to the universe~",
+        "name": "koroshi",
+        "pinned_tweet_id": "1666311300711092224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789532806688989184/3-7F3BCb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 19,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-14T02:19:30.000Z",
+        "description": "アドです。niconico：https://t.co/Bdx26K2k2K YouTube : https://t.co/A2EbwbLv1w イラストは「#Adoart」DMは事務所が管理しています。contact→ https://t.co/3GPesFPBFr",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "Adoart"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/58569901",
+                "end": 37,
+                "expanded_url": "http://nicovideo.jp/mylist/58569901",
+                "start": 14,
+                "url": "https://t.co/Bdx26K2k2K"
+              },
+              {
+                "display_url": "youtube.com/c/Ado1024",
+                "end": 71,
+                "expanded_url": "http://youtube.com/c/Ado1024",
+                "start": 48,
+                "url": "https://t.co/A2EbwbLv1w"
+              },
+              {
+                "display_url": "cloud9pro.co.jp/contact/",
+                "end": 133,
+                "expanded_url": "https://cloud9pro.co.jp/contact/",
+                "start": 110,
+                "url": "https://t.co/3GPesFPBFr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "…o-dokidokihimitsukichi-daigakuimo.com",
+                "end": 23,
+                "expanded_url": "https://ado-dokidokihimitsukichi-daigakuimo.com/",
+                "start": 0,
+                "url": "https://t.co/VdcVooBwaG"
+              }
+            ]
+          }
+        },
+        "id": "2929136138",
+        "location": "i：ORIHARAさん h：トゥルさん     ↓秘密基地",
+        "name": "Ado",
+        "pinned_tweet_id": "1877658379272798303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877372184378949632/FwegsHDv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2621161,
+          "following_count": 668,
+          "like_count": 51652,
+          "listed_count": 3907,
+          "media_count": 796,
+          "tweet_count": 29953
+        },
+        "url": "https://t.co/VdcVooBwaG",
+        "username": "ado1024imokenp",
+        "verified": true
+      }
+    ]
+  }
+}

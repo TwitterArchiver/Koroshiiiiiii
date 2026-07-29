@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057743680061255680",
+    "conversation_id": "2074412606522262003",
+    "created_at": "2026-07-07T08:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T09:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074412606522262003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/feifeiskk/stat…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/feifeiskk/status/2074410957787541585",
+          "start": 56,
+          "url": "https://t.co/NFvvgLS3ma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074412606522262003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074410957787541585",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "巧了，我也有点不正常🙂‍↕️主要是转移注意力吧，找一个自己喜欢的事情，做到极致，获取成就感，是一个很棒的事情！ https://t.co/NFvvgLS3ma"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2074412606522262003",
+        "created_at": "2026-07-07T08:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074412606522262003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/feifeiskk/stat…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/feifeiskk/status/2074410957787541585",
+              "start": 56,
+              "url": "https://t.co/NFvvgLS3ma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074412606522262003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074410957787541585",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "巧了，我也有点不正常🙂‍↕️主要是转移注意力吧，找一个自己喜欢的事情，做到极致，获取成就感，是一个很棒的事情！ https://t.co/NFvvgLS3ma"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812075300769173504",
+        "conversation_id": "2074349736262504685",
+        "created_at": "2026-07-07T08:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074410957787541585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057743680061255680",
+              "start": 0,
+              "username": "Koroshiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074410957787541585",
+        "in_reply_to_user_id": "2057743680061255680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074349736262504685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koroshiiiiiii 精神有点不正常能治吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/9aTLaOashy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 112,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 89,
+                "url": "https://t.co/9aTLaOashy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰（被ghostban了还没好",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 361,
+          "like_count": 2305,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 876
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T10:43:25.000Z",
+        "description": "一具游荡在人间地狱的无名尸体\n07摩羯 男娘femboy switch 双性恋 top \n纹身穿孔人皮扣人体改造爱好者",
+        "id": "1812075300769173504",
+        "location": "梦",
+        "name": "飛氺",
+        "pinned_tweet_id": "2060859417005109289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892212574743363584/stjv6Cyn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 598,
+          "like_count": 760,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 349
+        },
+        "url": "",
+        "username": "feifeiskk",
+        "verified": false
+      }
+    ]
+  }
+}

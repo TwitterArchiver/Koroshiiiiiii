@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070694103244042240",
+        "3_2070694103264972800",
+        "3_2070694103239864320",
+        "3_2070694103239782400"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "conversation_id": "2070694154460697062",
+    "created_at": "2026-06-27T02:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T03:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070694154460697062"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1pcgw4Grn9",
+          "end": 130,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2070694154460697062/photo/1",
+          "media_key": "3_2070694103244042240",
+          "start": 107,
+          "url": "https://t.co/1pcgw4Grn9"
+        },
+        {
+          "display_url": "pic.x.com/1pcgw4Grn9",
+          "end": 130,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2070694154460697062/photo/1",
+          "media_key": "3_2070694103264972800",
+          "start": 107,
+          "url": "https://t.co/1pcgw4Grn9"
+        },
+        {
+          "display_url": "pic.x.com/1pcgw4Grn9",
+          "end": 130,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2070694154460697062/photo/1",
+          "media_key": "3_2070694103239864320",
+          "start": 107,
+          "url": "https://t.co/1pcgw4Grn9"
+        },
+        {
+          "display_url": "pic.x.com/1pcgw4Grn9",
+          "end": 130,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2070694154460697062/photo/1",
+          "media_key": "3_2070694103239782400",
+          "start": 107,
+          "url": "https://t.co/1pcgw4Grn9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070694154460697062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "恩...把晚上做的梦丢给dp老师解了一下...主要是感觉小蛇真的咬到我了，痛觉肯定是是把我痛醒了...早上吃了点置换🐔，再感叹一次，每吃一次都觉得致幻🐔好无聊...现在觉得只从部分平台了解的我，真的好片面了... https://t.co/1pcgw4Grn9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2868,
+        "media_key": "3_2070694103244042240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLyVUN5bcAAFjMe.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2868,
+        "media_key": "3_2070694103264972800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLyVUN-a0AAL3rS.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2868,
+        "media_key": "3_2070694103239864320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLyVUN4bsAAsGB5.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2868,
+        "media_key": "3_2070694103239782400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLyVUN4acAAafNJ.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070694103244042240",
+            "3_2070694103264972800",
+            "3_2070694103239864320",
+            "3_2070694103239782400"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2070694154460697062",
+        "created_at": "2026-06-27T02:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070694154460697062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1pcgw4Grn9",
+              "end": 130,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2070694154460697062/photo/1",
+              "media_key": "3_2070694103244042240",
+              "start": 107,
+              "url": "https://t.co/1pcgw4Grn9"
+            },
+            {
+              "display_url": "pic.x.com/1pcgw4Grn9",
+              "end": 130,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2070694154460697062/photo/1",
+              "media_key": "3_2070694103264972800",
+              "start": 107,
+              "url": "https://t.co/1pcgw4Grn9"
+            },
+            {
+              "display_url": "pic.x.com/1pcgw4Grn9",
+              "end": 130,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2070694154460697062/photo/1",
+              "media_key": "3_2070694103239864320",
+              "start": 107,
+              "url": "https://t.co/1pcgw4Grn9"
+            },
+            {
+              "display_url": "pic.x.com/1pcgw4Grn9",
+              "end": 130,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2070694154460697062/photo/1",
+              "media_key": "3_2070694103239782400",
+              "start": 107,
+              "url": "https://t.co/1pcgw4Grn9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070694154460697062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恩...把晚上做的梦丢给dp老师解了一下...主要是感觉小蛇真的咬到我了，痛觉肯定是是把我痛醒了...早上吃了点置换🐔，再感叹一次，每吃一次都觉得致幻🐔好无聊...现在觉得只从部分平台了解的我，真的好片面了... https://t.co/1pcgw4Grn9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/bo7UxZdgdF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cg7KXvKW0Nb1…",
+                "end": 112,
+                "expanded_url": "https://www.kdocs.cn/l/cg7KXvKW0Nb1?f=301",
+                "start": 89,
+                "url": "https://t.co/bo7UxZdgdF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/kGVlVzRycD"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 343,
+          "like_count": 1908,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 788
+        },
+        "url": "https://t.co/kGVlVzRycD",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

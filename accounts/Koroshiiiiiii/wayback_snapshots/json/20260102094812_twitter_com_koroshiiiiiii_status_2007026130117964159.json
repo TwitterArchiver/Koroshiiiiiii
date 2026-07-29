@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996101226396602368"
+      ],
+      "media_source_tweet_id": [
+        "1996101228791570916"
+      ]
+    },
+    "author_id": "1628317122945515520",
+    "conversation_id": "2007026130117964159",
+    "created_at": "2026-01-02T09:48:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T10:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007026130117964159"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "Soejima",
+          "probability": 0.4824,
+          "start": 25,
+          "type": "Other"
+        },
+        {
+          "end": 64,
+          "normalized_text": "persona3",
+          "probability": 0.5582,
+          "start": 57,
+          "type": "Other"
+        },
+        {
+          "end": 69,
+          "normalized_text": "p3r",
+          "probability": 0.5322,
+          "start": 67,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 56,
+          "tag": "persona3"
+        },
+        {
+          "end": 70,
+          "start": 66,
+          "tag": "p3r"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1951670505460977665",
+          "start": 3,
+          "username": "NikaDudi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GgAEKoKwMM",
+          "end": 94,
+          "expanded_url": "https://x.com/NikaDudi/status/1996101228791570916/photo/1",
+          "media_key": "3_1996101226396602368",
+          "start": 71,
+          "url": "https://t.co/GgAEKoKwMM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007026130117964159",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1613
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996101228791570916",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NikaDudi: Drawing in Soejima's artstyle is very fun #persona3 #p3r https://t.co/GgAEKoKwMM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1578,
+        "media_key": "3_1996101226396602368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7OTfVcXUAAioq6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996101226396602368"
+          ],
+          "media_source_tweet_id": [
+            "1996101228791570916"
+          ]
+        },
+        "author_id": "1628317122945515520",
+        "conversation_id": "2007026130117964159",
+        "created_at": "2026-01-02T09:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T10:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007026130117964159"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "Soejima",
+              "probability": 0.4824,
+              "start": 25,
+              "type": "Other"
+            },
+            {
+              "end": 64,
+              "normalized_text": "persona3",
+              "probability": 0.5582,
+              "start": 57,
+              "type": "Other"
+            },
+            {
+              "end": 69,
+              "normalized_text": "p3r",
+              "probability": 0.5322,
+              "start": 67,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 56,
+              "tag": "persona3"
+            },
+            {
+              "end": 70,
+              "start": 66,
+              "tag": "p3r"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1951670505460977665",
+              "start": 3,
+              "username": "NikaDudi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GgAEKoKwMM",
+              "end": 94,
+              "expanded_url": "https://x.com/NikaDudi/status/1996101228791570916/photo/1",
+              "media_key": "3_1996101226396602368",
+              "start": 71,
+              "url": "https://t.co/GgAEKoKwMM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007026130117964159",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1613
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996101228791570916",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NikaDudi: Drawing in Soejima's artstyle is very fun #persona3 #p3r https://t.co/GgAEKoKwMM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996101226396602368"
+          ]
+        },
+        "author_id": "1951670505460977665",
+        "conversation_id": "1996101228791570916",
+        "created_at": "2025-12-03T06:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T07:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996101228791570916"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "Soejima",
+              "probability": 0.4357,
+              "start": 11,
+              "type": "Other"
+            },
+            {
+              "end": 50,
+              "normalized_text": "persona3",
+              "probability": 0.5531,
+              "start": 43,
+              "type": "Other"
+            },
+            {
+              "end": 55,
+              "normalized_text": "p3r",
+              "probability": 0.4983,
+              "start": 53,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 42,
+              "tag": "persona3"
+            },
+            {
+              "end": 56,
+              "start": 52,
+              "tag": "p3r"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GgAEKoKwMM",
+              "end": 80,
+              "expanded_url": "https://x.com/NikaDudi/status/1996101228791570916/photo/1",
+              "media_key": "3_1996101226396602368",
+              "start": 57,
+              "url": "https://t.co/GgAEKoKwMM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996101228791570916",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1033,
+          "impression_count": 88855,
+          "like_count": 10483,
+          "quote_count": 7,
+          "reply_count": 15,
+          "retweet_count": 1613
+        },
+        "reply_settings": "everyone",
+        "text": "Drawing in Soejima's artstyle is very fun #persona3 #p3r https://t.co/GgAEKoKwMM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-22T08:54:23.000Z",
+        "description": "i draw i guess",
+        "id": "1628317122945515520",
+        "location": "the unimaginable ",
+        "name": "koro",
+        "pinned_tweet_id": "1666311300711092224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964140585528545283/D9WLLdsi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 34,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "username": "koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-02T15:45:01.000Z",
+        "description": "I love One Piece / Trails / JoJo / Persona / draw sometimes ✍️",
+        "id": "1951670505460977665",
+        "name": "Dudi 🟥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991363437708840960/bAaYHiYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 403,
+          "like_count": 26585,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 158
+        },
+        "username": "NikaDudi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057743680061255680",
+    "conversation_id": "2079145791780962628",
+    "created_at": "2026-07-22T03:12:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T04:12:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079766539771978136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1431510026221350912",
+          "start": 0,
+          "username": "ZdnxXc"
+        },
+        {
+          "end": 20,
+          "id": "1481172876589821952",
+          "start": 8,
+          "username": "Easter_buny"
+        },
+        {
+          "end": 31,
+          "id": "1705058748815794176",
+          "start": 21,
+          "username": "PolvoOseo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079766539771978136",
+    "in_reply_to_user_id": "1431510026221350912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079761802897051704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZdnxXc @Easter_buny @PolvoOseo 坏了，我也是囤囤鼠...不囤药我好焦虑..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2079145791780962628",
+        "created_at": "2026-07-22T03:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079766539771978136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1431510026221350912",
+              "start": 0,
+              "username": "ZdnxXc"
+            },
+            {
+              "end": 20,
+              "id": "1481172876589821952",
+              "start": 8,
+              "username": "Easter_buny"
+            },
+            {
+              "end": 31,
+              "id": "1705058748815794176",
+              "start": 21,
+              "username": "PolvoOseo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079766539771978136",
+        "in_reply_to_user_id": "1431510026221350912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079761802897051704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZdnxXc @Easter_buny @PolvoOseo 坏了，我也是囤囤鼠...不囤药我好焦虑..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431510026221350912",
+        "conversation_id": "2079145791780962628",
+        "created_at": "2026-07-22T02:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T03:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079761802897051704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            },
+            {
+              "end": 23,
+              "id": "1705058748815794176",
+              "start": 13,
+              "username": "PolvoOseo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079761802897051704",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079347508996923492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny @PolvoOseo 我靠我跟你一模一样 跟囤积癖有关吗 我不只是数量 种类少了也会焦虑 有时候某种物质只剩一点了也不舍得吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀（🦋同名只发drug）\n不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/9aTLaOashy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 113,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 90,
+                "url": "https://t.co/9aTLaOashy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2075645184621330511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 421,
+          "like_count": 3158,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 1056
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-28T06:52:50.000Z",
+        "description": "迷幻美学欢迎投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xczdnx",
+                "end": 23,
+                "expanded_url": "https://t.me/xczdnx",
+                "start": 0,
+                "url": "https://t.co/ife6M5ChCI"
+              }
+            ]
+          }
+        },
+        "id": "1431510026221350912",
+        "location": "阿姆斯特丹",
+        "name": "xczdnx🍄",
+        "pinned_tweet_id": "2009133793559683578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451477295433240599/hBoKxuEB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 138,
+          "like_count": 1492,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 298
+        },
+        "url": "https://t.co/ife6M5ChCI",
+        "username": "ZdnxXc",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8413,
+          "following_count": 1265,
+          "like_count": 67213,
+          "listed_count": 8,
+          "media_count": 3113,
+          "tweet_count": 19214
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-22T03:18:15.000Z",
+        "description": "Arteterapia, dibujo artístico y fotografía ...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@polvo.oseo?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@polvo.oseo?_r=1&_t=ZS-966uWOcrDPM",
+                "start": 0,
+                "url": "https://t.co/48v10E0Fjg"
+              }
+            ]
+          }
+        },
+        "id": "1705058748815794176",
+        "name": "Polvo Òseo",
+        "pinned_tweet_id": "1865479285336584305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020503545339076608/jtPJd3eE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 295,
+          "like_count": 1545,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 124
+        },
+        "url": "https://t.co/48v10E0Fjg",
+        "username": "PolvoOseo",
+        "verified": false
+      }
+    ]
+  }
+}

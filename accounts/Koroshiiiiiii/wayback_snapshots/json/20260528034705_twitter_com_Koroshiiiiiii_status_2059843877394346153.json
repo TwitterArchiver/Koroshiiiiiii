@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2057044361205178368"
+      ],
+      "media_source_tweet_id": [
+        "2059623978499527121"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "conversation_id": "2059843877394346153",
+    "created_at": "2026-05-28T03:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T04:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059843877394346153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1939360458756194304",
+          "start": 3,
+          "username": "sekaiwadai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aRQ51oocXJ",
+          "end": 58,
+          "expanded_url": "https://x.com/sekaiwadai/status/2059623978499527121/video/1",
+          "media_key": "13_2057044361205178368",
+          "start": 35,
+          "url": "https://t.co/aRQ51oocXJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059843877394346153",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 717
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059623978499527121",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sekaiwadai: 平成初期みたいな雰囲気、好きすぎる。 https://t.co/aRQ51oocXJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28165,
+        "height": 720,
+        "media_key": "13_2057044361205178368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057044361205178368/img/3jL3owdjL_NcKPeT.jpg",
+        "public_metrics": {
+          "view_count": 205109
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057044361205178368/vid/avc1/360x270/SwEu8Zp_rz9bNmP6.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057044361205178368/vid/avc1/480x360/PWFtwP1iEbxp5niU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057044361205178368/vid/avc1/960x720/iDESbiPhH2s5uCXd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057044361205178368/pl/OG6sOhWRTSYk5Jvh.m3u8?v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057044361205178368"
+          ],
+          "media_source_tweet_id": [
+            "2059623978499527121"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2059843877394346153",
+        "created_at": "2026-05-28T03:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059843877394346153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1939360458756194304",
+              "start": 3,
+              "username": "sekaiwadai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aRQ51oocXJ",
+              "end": 58,
+              "expanded_url": "https://x.com/sekaiwadai/status/2059623978499527121/video/1",
+              "media_key": "13_2057044361205178368",
+              "start": 35,
+              "url": "https://t.co/aRQ51oocXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059843877394346153",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 717
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059623978499527121",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sekaiwadai: 平成初期みたいな雰囲気、好きすぎる。 https://t.co/aRQ51oocXJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057044361205178368"
+          ]
+        },
+        "author_id": "1939360458756194304",
+        "conversation_id": "2059623978499527121",
+        "created_at": "2026-05-27T13:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059623978499527121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aRQ51oocXJ",
+              "end": 42,
+              "expanded_url": "https://x.com/sekaiwadai/status/2059623978499527121/video/1",
+              "media_key": "13_2057044361205178368",
+              "start": 19,
+              "url": "https://t.co/aRQ51oocXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059623978499527121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1560,
+          "impression_count": 451495,
+          "like_count": 8839,
+          "quote_count": 12,
+          "reply_count": 23,
+          "retweet_count": 717
+        },
+        "reply_settings": "everyone",
+        "text": "平成初期みたいな雰囲気、好きすぎる。 https://t.co/aRQ51oocXJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AiSMfPiELF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 129,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 106,
+                "url": "https://t.co/AiSMfPiELF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土四",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 268,
+          "like_count": 408,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 284
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T16:29:05.000Z",
+        "description": "偉大な誇りある日本国を大切に🇯🇵ルールを無視しやりたい放題する外国人、それらを誘致する政治家が嫌いです。先人たちが守ってきた素晴らしい日本を守りたいです📣📣※支持政党は特にありません",
+        "id": "1939360458756194304",
+        "name": "帝国ちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966617471516815360/US6he-Bk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4621,
+          "following_count": 579,
+          "like_count": 0,
+          "listed_count": 11,
+          "media_count": 15,
+          "tweet_count": 31
+        },
+        "username": "sekaiwadai",
+        "verified": true
+      }
+    ]
+  }
+}

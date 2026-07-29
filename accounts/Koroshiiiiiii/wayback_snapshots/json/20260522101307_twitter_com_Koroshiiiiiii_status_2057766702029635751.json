@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057741062115119104"
+      ],
+      "media_source_tweet_id": [
+        "2057741094146949483"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "conversation_id": "2057766702029635751",
+    "created_at": "2026-05-22T10:13:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T11:13:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057766702029635751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1347941331063083008",
+          "start": 3,
+          "username": "pffbq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QSe2SMRAMv",
+          "end": 34,
+          "expanded_url": "https://x.com/pffbq/status/2057741094146949483/photo/1",
+          "media_key": "3_2057741062115119104",
+          "start": 11,
+          "url": "https://t.co/QSe2SMRAMv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057766702029635751",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057741094146949483",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pffbq: https://t.co/QSe2SMRAMv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2057766702029635751].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2057766702029635751",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2057766702029635751"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3035,
+        "media_key": "3_2057741062115119104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6Ql_cbUAANWiM.jpg",
+        "width": 2150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057741062115119104"
+          ]
+        },
+        "author_id": "1347941331063083008",
+        "conversation_id": "2057741094146949483",
+        "created_at": "2026-05-22T08:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T09:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057741094146949483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QSe2SMRAMv",
+              "end": 23,
+              "expanded_url": "https://x.com/pffbq/status/2057741094146949483/photo/1",
+              "media_key": "3_2057741062115119104",
+              "start": 0,
+              "url": "https://t.co/QSe2SMRAMv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057741094146949483",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 4190,
+          "like_count": 525,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QSe2SMRAMv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AiSMfPiELF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 129,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 106,
+                "url": "https://t.co/AiSMfPiELF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 11,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-09T16:21:37.000Z",
+        "description": "お仕事の連絡はこちらまで→Jiz.pffbq𖤐https://t.co/fZB2AspUew",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gmail.com",
+                "end": 46,
+                "expanded_url": "http://gmail.com",
+                "start": 23,
+                "url": "https://t.co/fZB2AspUew"
+              }
+            ]
+          }
+        },
+        "id": "1347941331063083008",
+        "name": "Jiz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761156335805366272/4Hg5M1L5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42859,
+          "following_count": 185,
+          "like_count": 6088,
+          "listed_count": 299,
+          "media_count": 241,
+          "tweet_count": 2106
+        },
+        "username": "pffbq",
+        "verified": false
+      }
+    ]
+  }
+}

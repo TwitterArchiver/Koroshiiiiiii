@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065217804606046208",
+        "3_2065217804622872576"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "conversation_id": "2065217831780897133",
+    "created_at": "2026-06-11T23:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T00:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065217831780897133"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RHHGkVzSq4",
+          "end": 27,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2065217831780897133/photo/1",
+          "media_key": "3_2065217804606046208",
+          "start": 4,
+          "url": "https://t.co/RHHGkVzSq4"
+        },
+        {
+          "display_url": "pic.x.com/RHHGkVzSq4",
+          "end": 27,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2065217831780897133/photo/1",
+          "media_key": "3_2065217804622872576",
+          "start": 4,
+          "url": "https://t.co/RHHGkVzSq4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065217831780897133",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😭😭😭 https://t.co/RHHGkVzSq4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2065217804606046208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKkgprtbAAA-4YT.jpg",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2065217804622872576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKkgprxbwAANlJv.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065217804606046208",
+            "3_2065217804622872576"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2065217831780897133",
+        "created_at": "2026-06-11T23:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T00:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065217831780897133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RHHGkVzSq4",
+              "end": 27,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2065217831780897133/photo/1",
+              "media_key": "3_2065217804606046208",
+              "start": 4,
+              "url": "https://t.co/RHHGkVzSq4"
+            },
+            {
+              "display_url": "pic.x.com/RHHGkVzSq4",
+              "end": 27,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2065217831780897133/photo/1",
+              "media_key": "3_2065217804622872576",
+              "start": 4,
+              "url": "https://t.co/RHHGkVzSq4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065217831780897133",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😭😭😭 https://t.co/RHHGkVzSq4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，仅私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AiSMfPiELF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 126,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 103,
+                "url": "https://t.co/AiSMfPiELF"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土四",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 306,
+          "like_count": 1406,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 791
+        },
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

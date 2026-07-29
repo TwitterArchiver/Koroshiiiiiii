@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628317122945515520",
+    "conversation_id": "1806760816638849105",
+    "created_at": "2024-09-01T06:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T07:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830134460781924766"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "Skibiddy",
+          "probability": 0.5488,
+          "start": 14,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1548716016632754181",
+          "start": 0,
+          "username": "LackleTackle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830134460781924766",
+    "in_reply_to_user_id": "1548716016632754181",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806760816638849105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LackleTackle Skibiddy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628317122945515520",
+        "conversation_id": "1806760816638849105",
+        "created_at": "2024-09-01T06:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T07:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830134460781924766"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Skibiddy",
+              "probability": 0.5488,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1548716016632754181",
+              "start": 0,
+              "username": "LackleTackle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830134460781924766",
+        "in_reply_to_user_id": "1548716016632754181",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806760816638849105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LackleTackle Skibiddy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1806760811576373249"
+          ]
+        },
+        "author_id": "1548716016632754181",
+        "conversation_id": "1806760816638849105",
+        "created_at": "2024-06-28T18:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T19:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806760816638849105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/azoe9vmgum",
+              "end": 25,
+              "expanded_url": "https://twitter.com/LackleTackle/status/1806760816638849105/photo/1",
+              "media_key": "3_1806760811576373249",
+              "start": 2,
+              "url": "https://t.co/AZoe9Vmgum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806760816638849105",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "7 https://t.co/AZoe9Vmgum"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-22T08:54:23.000Z",
+        "description": "I like playing games, and drawing! Honkai: Star Rail, Genshin and CRK are my favorites! ♡",
+        "id": "1628317122945515520",
+        "location": "Belong to the universe~",
+        "name": "koroshi",
+        "pinned_tweet_id": "1666311300711092224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789532806688989184/3-7F3BCb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 17,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 4
+        },
+        "username": "koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-17T17:07:33.000Z",
+        "description": "bored motherfucker\ni have a wife\n\nany pronouns",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC--We…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC--WeP4hWGo7WXwKzksbKPQ",
+                "start": 0,
+                "url": "https://t.co/1nKP5CGXkP"
+              }
+            ]
+          }
+        },
+        "id": "1548716016632754181",
+        "location": "my house",
+        "name": "Lackle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801704408952279040/u99qyvJS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 117,
+          "like_count": 2407,
+          "listed_count": 0,
+          "tweet_count": 26
+        },
+        "url": "https://t.co/1nKP5CGXkP",
+        "username": "LackleTackle",
+        "verified": false
+      }
+    ]
+  }
+}

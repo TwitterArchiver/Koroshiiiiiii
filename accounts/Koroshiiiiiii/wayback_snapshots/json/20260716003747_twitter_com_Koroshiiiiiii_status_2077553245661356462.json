@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2077553220491366400"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "conversation_id": "2077553245661356462",
+    "created_at": "2026-07-16T00:37:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T01:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077553245661356462"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tJEEPRGlz7",
+          "end": 45,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2077553245661356462/photo/1",
+          "media_key": "16_2077553220491366400",
+          "start": 22,
+          "url": "https://t.co/tJEEPRGlz7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077553245661356462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "放一张gif在这\n咋不能设置敏感内容... https://t.co/tJEEPRGlz7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2077553220491366400",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HNTzpY1bUAAen_D.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HNTzpY1bUAAen_D.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2077553220491366400"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2077553245661356462",
+        "created_at": "2026-07-16T00:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T01:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077553245661356462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tJEEPRGlz7",
+              "end": 45,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2077553245661356462/photo/1",
+              "media_key": "16_2077553220491366400",
+              "start": 22,
+              "url": "https://t.co/tJEEPRGlz7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077553245661356462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "放一张gif在这\n咋不能设置敏感内容... https://t.co/tJEEPRGlz7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/9aTLaOashy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 112,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 89,
+                "url": "https://t.co/9aTLaOashy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2075645184621330511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 396,
+          "like_count": 2756,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 975
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

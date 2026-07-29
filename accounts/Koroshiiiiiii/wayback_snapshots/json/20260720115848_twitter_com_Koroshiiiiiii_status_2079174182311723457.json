@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057743680061255680",
+    "conversation_id": "2078680628011446527",
+    "created_at": "2026-07-20T11:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T12:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079174182311723457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1675431371848945664",
+          "start": 0,
+          "username": "Gr13f_of_Xhan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079174182311723457",
+    "in_reply_to_user_id": "1675431371848945664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079172445270053264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gr13f_of_Xhan 吃吃吃！早醒也能接受😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2078680628011446527",
+        "created_at": "2026-07-20T11:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079174182311723457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1675431371848945664",
+              "start": 0,
+              "username": "Gr13f_of_Xhan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079174182311723457",
+        "in_reply_to_user_id": "1675431371848945664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079172445270053264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gr13f_of_Xhan 吃吃吃！早醒也能接受😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675431371848945664",
+        "conversation_id": "2078680628011446527",
+        "created_at": "2026-07-20T11:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079172445270053264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057743680061255680",
+              "start": 0,
+              "username": "Koroshiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079172445270053264",
+        "in_reply_to_user_id": "2057743680061255680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078680628011446527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koroshiiiiiii 我操我昨天吃完回来必须狠狠支持 我吃傻逼喹硫平12个小时也睡不醒 我昨天吃思诺思睡了五个小时也不困"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀（🦋同名只发drug）\n不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/9aTLaOashy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 113,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 90,
+                "url": "https://t.co/9aTLaOashy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2075645184621330511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 418,
+          "like_count": 3042,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 1035
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T09:09:20.000Z",
+        "description": "自是人长恨水长东🩵INFJ-T/双相情感障碍/重抑重焦/服药/割手/负面/单亲/8.27起戒od/渴望死亡/互fo欢迎 如果没在置顶留一下❕泛性恋-希望被爱但又推开-如果可以抱抱我——下辈子也喜欢你@ZhizhiziOsward",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 99,
+                "username": "ZhizhiziOsward"
+              }
+            ]
+          }
+        },
+        "id": "1675431371848945664",
+        "location": "冰冷的 被包裹住仅有的温暖的裂缝",
+        "name": "Gr13f_Inelaio雨",
+        "pinned_tweet_id": "1858831733841686834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857766547416297476/no1iVI_1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 198,
+          "like_count": 5059,
+          "listed_count": 1,
+          "media_count": 352,
+          "tweet_count": 2152
+        },
+        "url": "",
+        "username": "Gr13f_of_Xhan",
+        "verified": false
+      }
+    ]
+  }
+}

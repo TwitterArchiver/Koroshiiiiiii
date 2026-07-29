@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057743680061255680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2064556420029415576",
+    "created_at": "2026-06-10T03:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T04:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064556420029415576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "166793593",
+          "start": 3,
+          "username": "animetrends"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064556420029415576",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1406
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064264090097242496",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @animetrends: LA CAJERA EXISTE EN LA REALIDAD\n\nUna cosplayer llevó su nivel de obsesión a un punto tan absurdo que logró clonar la doble…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2132,
+        "media_key": "3_2064263925860904960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKW9GoeXsAAFaQ-.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1868,
+        "media_key": "3_2064264064293851136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKW9OsLW0AA6ix3.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2064556420029415576",
+        "created_at": "2026-06-10T03:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064556420029415576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "166793593",
+              "start": 3,
+              "username": "animetrends"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064556420029415576",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1406
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064264090097242496",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @animetrends: LA CAJERA EXISTE EN LA REALIDAD\n\nUna cosplayer llevó su nivel de obsesión a un punto tan absurdo que logró clonar la doble…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064263925860904960",
+            "3_2064264064293851136"
+          ]
+        },
+        "author_id": "166793593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2064264090097242496",
+        "created_at": "2026-06-09T08:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064264090097242496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l8mZqlXPuo",
+              "end": 294,
+              "expanded_url": "https://x.com/animetrends/status/2064264090097242496/photo/1",
+              "media_key": "3_2064263925860904960",
+              "start": 271,
+              "url": "https://t.co/l8mZqlXPuo"
+            },
+            {
+              "display_url": "pic.x.com/l8mZqlXPuo",
+              "end": 294,
+              "expanded_url": "https://x.com/animetrends/status/2064264090097242496/photo/1",
+              "media_key": "3_2064264064293851136",
+              "start": 271,
+              "url": "https://t.co/l8mZqlXPuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064264090097242496",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {},
+          "text": "LA CAJERA EXISTE EN LA REALIDAD\n\nUna cosplayer llevó su nivel de obsesión a un punto tan absurdo que logró clonar la doble identidad de Yamada y Tayama (Smoking Behind the Supermarket with You).\n\nLos foros japoneses no pueden creer que la misma persona encarne con tanta perfección tanto a la inocente y alegre empleada del supermercado como a la ruda motociclista pelirroja.\n\nEl nivel de fidelidad llega hasta replicar el uniforme exacto y la misma marca de los cigarrillos del manga.\n\nEra hacer cosplay no sacarla del anime.\n\nLa cosplayer es: morimi_akashi"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4326,
+          "impression_count": 1157949,
+          "like_count": 23450,
+          "quote_count": 57,
+          "reply_count": 57,
+          "retweet_count": 1406
+        },
+        "reply_settings": "everyone",
+        "text": "LA CAJERA EXISTE EN LA REALIDAD\n\nUna cosplayer llevó su nivel de obsesión a un punto tan absurdo que logró clonar la doble identidad de Yamada y Tayama (Smoking Behind the Supermarket with You).\n\nLos foros japoneses no pueden creer que la misma persona encarne con tanta https://t.co/l8mZqlXPuo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，仅私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AiSMfPiELF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 126,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 103,
+                "url": "https://t.co/AiSMfPiELF"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土四",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 302,
+          "like_count": 1321,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 742
+        },
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-15T00:56:52.000Z",
+        "description": "Seguimos de cerca las tendencias del anime y la cultura japonesa.",
+        "id": "166793593",
+        "location": "Latinoamérica",
+        "name": "AnimeTrends",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003513482939867136/VilQZ22__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465436,
+          "following_count": 598,
+          "like_count": 343,
+          "listed_count": 963,
+          "media_count": 46131,
+          "tweet_count": 54511
+        },
+        "username": "animetrends",
+        "verified": true
+      }
+    ]
+  }
+}

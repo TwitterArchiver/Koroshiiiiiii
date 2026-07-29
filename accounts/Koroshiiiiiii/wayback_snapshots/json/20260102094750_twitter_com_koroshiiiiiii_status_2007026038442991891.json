@@ -1,0 +1,538 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002238854288359425"
+      ],
+      "media_source_tweet_id": [
+        "2002238857266303180"
+      ]
+    },
+    "author_id": "1628317122945515520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+          "id": "854954654546907136",
+          "name": "Persona"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+          "id": "854954654546907136",
+          "name": "Persona"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898900390707204",
+          "name": "JRPGs"
+        }
+      }
+    ],
+    "conversation_id": "2007026038442991891",
+    "created_at": "2026-01-02T09:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T10:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007026038442991891"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "persona4",
+          "probability": 0.5217,
+          "start": 25,
+          "type": "Other"
+        },
+        {
+          "end": 37,
+          "normalized_text": "p4g",
+          "probability": 0.599,
+          "start": 35,
+          "type": "Other"
+        },
+        {
+          "end": 42,
+          "normalized_text": "p4r",
+          "probability": 0.5945,
+          "start": 40,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 24,
+          "tag": "persona4"
+        },
+        {
+          "end": 38,
+          "start": 34,
+          "tag": "p4g"
+        },
+        {
+          "end": 43,
+          "start": 39,
+          "tag": "p4r"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1951670505460977665",
+          "start": 3,
+          "username": "NikaDudi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wkTVGDjQNN",
+          "end": 67,
+          "expanded_url": "https://x.com/NikaDudi/status/2002238857266303180/photo/1",
+          "media_key": "3_2002238854288359425",
+          "start": 44,
+          "url": "https://t.co/wkTVGDjQNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007026038442991891",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 683
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002238857266303180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NikaDudi: Yu sketch #persona4 #p4g #p4r https://t.co/wkTVGDjQNN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_2002238854288359425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8lhoTFXwAEYReD.jpg",
+        "width": 1227
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002238854288359425"
+          ],
+          "media_source_tweet_id": [
+            "2002238857266303180"
+          ]
+        },
+        "author_id": "1628317122945515520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898900390707204",
+              "name": "JRPGs"
+            }
+          }
+        ],
+        "conversation_id": "2007026038442991891",
+        "created_at": "2026-01-02T09:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T10:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007026038442991891"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "persona4",
+              "probability": 0.5217,
+              "start": 25,
+              "type": "Other"
+            },
+            {
+              "end": 37,
+              "normalized_text": "p4g",
+              "probability": 0.599,
+              "start": 35,
+              "type": "Other"
+            },
+            {
+              "end": 42,
+              "normalized_text": "p4r",
+              "probability": 0.5945,
+              "start": 40,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 24,
+              "tag": "persona4"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "p4g"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "p4r"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1951670505460977665",
+              "start": 3,
+              "username": "NikaDudi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wkTVGDjQNN",
+              "end": 67,
+              "expanded_url": "https://x.com/NikaDudi/status/2002238857266303180/photo/1",
+              "media_key": "3_2002238854288359425",
+              "start": 44,
+              "url": "https://t.co/wkTVGDjQNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007026038442991891",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 683
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002238857266303180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NikaDudi: Yu sketch #persona4 #p4g #p4r https://t.co/wkTVGDjQNN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002238854288359425"
+          ]
+        },
+        "author_id": "1951670505460977665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898900390707204",
+              "name": "JRPGs"
+            }
+          }
+        ],
+        "conversation_id": "2002238857266303180",
+        "created_at": "2025-12-20T04:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T05:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002238857266303180"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "Yu",
+              "probability": 0.4584,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 18,
+              "normalized_text": "persona4",
+              "probability": 0.609,
+              "start": 11,
+              "type": "Other"
+            },
+            {
+              "end": 23,
+              "normalized_text": "p4g",
+              "probability": 0.5841,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 28,
+              "normalized_text": "p4r",
+              "probability": 0.5928,
+              "start": 26,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 10,
+              "tag": "persona4"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "p4g"
+            },
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "p4r"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wkTVGDjQNN",
+              "end": 53,
+              "expanded_url": "https://x.com/NikaDudi/status/2002238857266303180/photo/1",
+              "media_key": "3_2002238854288359425",
+              "start": 30,
+              "url": "https://t.co/wkTVGDjQNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002238857266303180",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 318,
+          "impression_count": 54119,
+          "like_count": 5055,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 683
+        },
+        "reply_settings": "everyone",
+        "text": "Yu sketch #persona4 #p4g #p4r https://t.co/wkTVGDjQNN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-22T08:54:23.000Z",
+        "description": "i draw i guess",
+        "id": "1628317122945515520",
+        "location": "the unimaginable ",
+        "name": "koro",
+        "pinned_tweet_id": "1666311300711092224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964140585528545283/D9WLLdsi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 34,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "username": "koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-02T15:45:01.000Z",
+        "description": "I love One Piece / Trails / JoJo / Persona / draw sometimes ✍️",
+        "id": "1951670505460977665",
+        "name": "Dudi 🟥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991363437708840960/bAaYHiYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 403,
+          "like_count": 26585,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 158
+        },
+        "username": "NikaDudi",
+        "verified": false
+      }
+    ]
+  }
+}

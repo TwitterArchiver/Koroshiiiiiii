@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057743680061255680",
+    "conversation_id": "2071761014761398424",
+    "created_at": "2026-06-30T01:01:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T02:01:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071761014761398424"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meakokawaii2/s…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/meakokawaii2/status/2071301273262182645",
+          "start": 21,
+          "url": "https://t.co/8pmzdy1VHn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071761014761398424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071301273262182645",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看到啦！！！我被ghostban了😭😭 https://t.co/8pmzdy1VHn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2071761014761398424",
+        "created_at": "2026-06-30T01:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T02:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071761014761398424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meakokawaii2/s…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/meakokawaii2/status/2071301273262182645",
+              "start": 21,
+              "url": "https://t.co/8pmzdy1VHn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071761014761398424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071301273262182645",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看到啦！！！我被ghostban了😭😭 https://t.co/8pmzdy1VHn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728097655669370880",
+        "conversation_id": "2071213684643487797",
+        "created_at": "2026-06-28T18:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T19:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071301273262182645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057743680061255680",
+              "start": 0,
+              "username": "Koroshiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071301273262182645",
+        "in_reply_to_user_id": "2057743680061255680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071213684643487797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koroshiiiiiii 我买了软糖😘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/bo7UxZdgdF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cg7KXvKW0Nb1…",
+                "end": 112,
+                "expanded_url": "https://www.kdocs.cn/l/cg7KXvKW0Nb1?f=301",
+                "start": 89,
+                "url": "https://t.co/bo7UxZdgdF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/kGVlVzRycD"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 346,
+          "like_count": 2061,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 831
+        },
+        "url": "https://t.co/kGVlVzRycD",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-24T17:06:14.000Z",
+        "description": "18！设定上是一个来自东京都的药物滥用的粉毛小猫！欢迎交友——",
+        "id": "1728097655669370880",
+        "location": "天国",
+        "name": "mikanagi meako",
+        "pinned_tweet_id": "2061579728151290283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063030529382125568/Yip4fzhX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 129,
+          "like_count": 562,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 600
+        },
+        "url": "",
+        "username": "meakokawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078090982177050624"
+      ],
+      "media_source_tweet_id": [
+        "2078090987692572875"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "conversation_id": "2078312237681512842",
+    "created_at": "2026-07-18T02:53:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T03:53:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078312237681512842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "986826398131081216",
+          "start": 3,
+          "username": "s_margitte"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dtvfkuW5TX",
+          "end": 57,
+          "expanded_url": "https://x.com/s_margitte/status/2078090987692572875/photo/1",
+          "media_key": "3_2078090982177050624",
+          "start": 34,
+          "url": "https://t.co/dtvfkuW5TX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078312237681512842",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078090987692572875",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @s_margitte: 花火よりベビーカステラ買ってきて🌷 https://t.co/dtvfkuW5TX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1482,
+        "media_key": "3_2078090982177050624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbcvPObEAANMxQ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078090982177050624"
+          ]
+        },
+        "author_id": "986826398131081216",
+        "conversation_id": "2078090987692572875",
+        "created_at": "2026-07-17T12:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078090987692572875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dtvfkuW5TX",
+              "end": 41,
+              "expanded_url": "https://x.com/s_margitte/status/2078090987692572875/photo/1",
+              "media_key": "3_2078090982177050624",
+              "start": 18,
+              "url": "https://t.co/dtvfkuW5TX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078090987692572875",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 3524,
+          "like_count": 245,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "following",
+        "text": "花火よりベビーカステラ買ってきて🌷 https://t.co/dtvfkuW5TX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078090982177050624"
+          ],
+          "media_source_tweet_id": [
+            "2078090987692572875"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2078312237681512842",
+        "created_at": "2026-07-18T02:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T03:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078312237681512842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "986826398131081216",
+              "start": 3,
+              "username": "s_margitte"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dtvfkuW5TX",
+              "end": 57,
+              "expanded_url": "https://x.com/s_margitte/status/2078090987692572875/photo/1",
+              "media_key": "3_2078090982177050624",
+              "start": 34,
+              "url": "https://t.co/dtvfkuW5TX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078312237681512842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078090987692572875",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @s_margitte: 花火よりベビーカステラ買ってきて🌷 https://t.co/dtvfkuW5TX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀（🦋同名只发drug）\n不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/9aTLaOashy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 113,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 90,
+                "url": "https://t.co/9aTLaOashy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2075645184621330511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 410,
+          "like_count": 2884,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 993
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-19T04:38:42.000Z",
+        "description": "どうも、インターネット天使です†˚ʚ(՞ ܸ. . ܸ՞)ɞ˚† 会えません https://t.co/EJ7IREbK36",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 62,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/13K4ZWXJN35TL?ref=cm_sw_em_r_un_un_hMkWXReQdVBmx",
+                "start": 39,
+                "url": "https://t.co/EJ7IREbK36"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/margitte_s",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/margitte_s",
+                "start": 0,
+                "url": "https://t.co/AQpGsHVsbf"
+              }
+            ]
+          }
+        },
+        "id": "986826398131081216",
+        "location": "失楽園",
+        "name": "⑨margitte",
+        "pinned_tweet_id": "1724739334593749433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065994630890696704/o0_iaIzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27679,
+          "following_count": 624,
+          "like_count": 94680,
+          "listed_count": 79,
+          "media_count": 5241,
+          "tweet_count": 31970
+        },
+        "url": "https://t.co/AQpGsHVsbf",
+        "username": "s_margitte",
+        "verified": false
+      }
+    ]
+  }
+}

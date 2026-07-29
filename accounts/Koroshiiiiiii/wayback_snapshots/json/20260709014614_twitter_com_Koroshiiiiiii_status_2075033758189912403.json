@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075033747712507904"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "conversation_id": "2075033758189912403",
+    "created_at": "2026-07-09T01:46:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T02:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075033758189912403"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IbOmxQfBnQ",
+          "end": 38,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2075033758189912403/photo/1",
+          "media_key": "3_2075033747712507904",
+          "start": 15,
+          "url": "https://t.co/IbOmxQfBnQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075033758189912403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个筛选的箭头咋不见了... https://t.co/IbOmxQfBnQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 263,
+        "media_key": "3_2075033747712507904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMwAMxVaAAA74Gi.jpg",
+        "width": 830
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075033747712507904"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2075033758189912403",
+        "created_at": "2026-07-09T01:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T02:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075033758189912403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IbOmxQfBnQ",
+              "end": 38,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2075033758189912403/photo/1",
+              "media_key": "3_2075033747712507904",
+              "start": 15,
+              "url": "https://t.co/IbOmxQfBnQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075033758189912403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个筛选的箭头咋不见了... https://t.co/IbOmxQfBnQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/9aTLaOashy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 112,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 89,
+                "url": "https://t.co/9aTLaOashy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰（被ghostban了还没好",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 370,
+          "like_count": 2364,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 885
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

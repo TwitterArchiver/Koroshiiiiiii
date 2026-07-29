@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057743680061255680",
+    "conversation_id": "2058526695175709115",
+    "created_at": "2026-05-24T12:58:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T13:58:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058532997255795035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1919465517829783552",
+          "start": 0,
+          "username": "KviSin_17"
+        },
+        {
+          "end": 21,
+          "id": "1283818798177370113",
+          "start": 11,
+          "username": "GuangXi06"
+        },
+        {
+          "end": 36,
+          "id": "2016028559228469252",
+          "start": 22,
+          "username": "Alvvaysioffy1"
+        },
+        {
+          "end": 52,
+          "id": "1830934925769613334",
+          "start": 37,
+          "username": "Jinggebiezhuaw"
+        },
+        {
+          "end": 61,
+          "id": "2039298306309062657",
+          "start": 53,
+          "username": "Yunofd6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058532997255795035",
+    "in_reply_to_user_id": "1919465517829783552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058532293707530620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KviSin_17 @GuangXi06 @Alvvaysioffy1 @Jinggebiezhuaw @Yunofd6 美人哥🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2058526695175709115",
+        "created_at": "2026-05-24T12:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058532997255795035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1919465517829783552",
+              "start": 0,
+              "username": "KviSin_17"
+            },
+            {
+              "end": 21,
+              "id": "1283818798177370113",
+              "start": 11,
+              "username": "GuangXi06"
+            },
+            {
+              "end": 36,
+              "id": "2016028559228469252",
+              "start": 22,
+              "username": "Alvvaysioffy1"
+            },
+            {
+              "end": 52,
+              "id": "1830934925769613334",
+              "start": 37,
+              "username": "Jinggebiezhuaw"
+            },
+            {
+              "end": 61,
+              "id": "2039298306309062657",
+              "start": 53,
+              "username": "Yunofd6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058532997255795035",
+        "in_reply_to_user_id": "1919465517829783552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058532293707530620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KviSin_17 @GuangXi06 @Alvvaysioffy1 @Jinggebiezhuaw @Yunofd6 美人哥🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2058526695175709115",
+        "created_at": "2026-05-24T12:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058532293707530620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1283818798177370113",
+              "start": 0,
+              "username": "GuangXi06"
+            },
+            {
+              "end": 25,
+              "id": "2057743680061255680",
+              "start": 11,
+              "username": "Koroshiiiiiii"
+            },
+            {
+              "end": 40,
+              "id": "2016028559228469252",
+              "start": 26,
+              "username": "Alvvaysioffy1"
+            },
+            {
+              "end": 56,
+              "id": "1830934925769613334",
+              "start": 41,
+              "username": "Jinggebiezhuaw"
+            },
+            {
+              "end": 65,
+              "id": "2039298306309062657",
+              "start": 57,
+              "username": "Yunofd6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058532293707530620",
+        "in_reply_to_user_id": "1283818798177370113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058531646589260130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuangXi06 @Koroshiiiiiii @Alvvaysioffy1 @Jinggebiezhuaw @Yunofd6 为什么你知道我是美人哥呀！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AiSMfPiELF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 129,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 106,
+                "url": "https://t.co/AiSMfPiELF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土四",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 194,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 128
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士\n双相I型/低能量/欣赏躯体\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 52,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 29,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "KviSinnnnn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057145145183883264/W0Y-Ok86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 32,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 170
+        },
+        "username": "KviSin_17",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-16T17:40:39.000Z",
+        "description": "19 | he/him｜ 负能量 | 想交朋友｜OD💊｜穿孔｜互fo｜不键政｜不卖东西｜大家快来找这个清平聊天呀｜",
+        "id": "1283818798177370113",
+        "location": "第四高原",
+        "name": "痛苦心事难言",
+        "pinned_tweet_id": "2056042624641798443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056582911160352768/GW69TNAp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 237,
+          "like_count": 2130,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 357
+        },
+        "username": "GuangXi06",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "不线下。看成分互fo👯‍♂️\n有些关注没有消息提示 所以优先回fo有互动的\n智商很低所以任何攻击都无效 认真你就输了",
+        "id": "2016028559228469252",
+        "name": "小春",
+        "pinned_tweet_id": "2057808094403629122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 99,
+          "like_count": 560,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 406
+        },
+        "username": "Alvvaysioffy1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神意大利人，非典型支黑，非典型化学推，喜欢跟小男娘玩。 我的名字读作奥克萨娜 不是OK娑娜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/McxnWOqV5m"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "1991449358647325050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2535,
+          "following_count": 413,
+          "like_count": 940,
+          "listed_count": 4,
+          "media_count": 198,
+          "tweet_count": 692
+        },
+        "url": "https://t.co/McxnWOqV5m",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T11:07:45.000Z",
+        "description": "11年｜od｜自伤｜双向｜LGBT友好\n欢迎同类互fo喵",
+        "id": "2039298306309062657",
+        "name": "yun",
+        "pinned_tweet_id": "2054160346659926215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049783838252113920/vCrsO79g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 293,
+          "like_count": 2417,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 566
+        },
+        "username": "Yunofd6",
+        "verified": false
+      }
+    ]
+  }
+}

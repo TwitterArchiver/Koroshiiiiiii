@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059173079738392576"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "conversation_id": "2059173096716988426",
+    "created_at": "2026-05-26T07:21:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T08:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059173096716988426"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "1d-al-lad",
+          "display_url": "bsky.app/profile/lengcu…",
+          "end": 23,
+          "expanded_url": "https://bsky.app/profile/lengcuicui119.bsky.social/post/3mmqhfg6cps2z",
+          "start": 0,
+          "status": 200,
+          "title": "山本殺し (@lengcuicui119.bsky.social)",
+          "unwound_url": "https://bsky.app/profile/lengcuicui119.bsky.social/post/3mmqhfg6cps2z",
+          "url": "https://t.co/tayiIFijkZ"
+        },
+        {
+          "display_url": "pic.x.com/Qp7gt4wkLC",
+          "end": 47,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2059173096716988426/photo/1",
+          "media_key": "3_2059173079738392576",
+          "start": 24,
+          "url": "https://t.co/Qp7gt4wkLC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059173096716988426",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/tayiIFijkZ https://t.co/Qp7gt4wkLC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 880,
+        "media_key": "3_2059173079738392576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOnAYzaoAAhwdg.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059173079738392576"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2059173096716988426",
+        "created_at": "2026-05-26T07:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059173096716988426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "1d-al-lad",
+              "display_url": "bsky.app/profile/lengcu…",
+              "end": 23,
+              "expanded_url": "https://bsky.app/profile/lengcuicui119.bsky.social/post/3mmqhfg6cps2z",
+              "start": 0,
+              "status": 200,
+              "title": "山本殺し (@lengcuicui119.bsky.social)",
+              "unwound_url": "https://bsky.app/profile/lengcuicui119.bsky.social/post/3mmqhfg6cps2z",
+              "url": "https://t.co/tayiIFijkZ"
+            },
+            {
+              "display_url": "pic.x.com/Qp7gt4wkLC",
+              "end": 47,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2059173096716988426/photo/1",
+              "media_key": "3_2059173079738392576",
+              "start": 24,
+              "url": "https://t.co/Qp7gt4wkLC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059173096716988426",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tayiIFijkZ https://t.co/Qp7gt4wkLC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AiSMfPiELF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 129,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 106,
+                "url": "https://t.co/AiSMfPiELF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土四",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 222,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 169
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

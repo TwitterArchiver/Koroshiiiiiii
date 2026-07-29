@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058836065583296512",
+        "3_2058836065587523584",
+        "3_2058836065587527680",
+        "3_2058836065579126784"
+      ],
+      "media_source_tweet_id": [
+        "2058836070490640433",
+        "2058836070490640433",
+        "2058836070490640433",
+        "2058836070490640433"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "conversation_id": "2058902451215118401",
+    "created_at": "2026-05-25T13:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T14:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058902451215118401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1801187632933965824",
+          "start": 3,
+          "username": "uzuko_photo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JymiHclaom",
+          "end": 48,
+          "expanded_url": "https://x.com/uzuko_photo/status/2058836070490640433/photo/1",
+          "media_key": "3_2058836065583296512",
+          "start": 25,
+          "url": "https://t.co/JymiHclaom"
+        },
+        {
+          "display_url": "pic.x.com/JymiHclaom",
+          "end": 48,
+          "expanded_url": "https://x.com/uzuko_photo/status/2058836070490640433/photo/1",
+          "media_key": "3_2058836065587523584",
+          "start": 25,
+          "url": "https://t.co/JymiHclaom"
+        },
+        {
+          "display_url": "pic.x.com/JymiHclaom",
+          "end": 48,
+          "expanded_url": "https://x.com/uzuko_photo/status/2058836070490640433/photo/1",
+          "media_key": "3_2058836065587527680",
+          "start": 25,
+          "url": "https://t.co/JymiHclaom"
+        },
+        {
+          "display_url": "pic.x.com/JymiHclaom",
+          "end": 48,
+          "expanded_url": "https://x.com/uzuko_photo/status/2058836070490640433/photo/1",
+          "media_key": "3_2058836065579126784",
+          "start": 25,
+          "url": "https://t.co/JymiHclaom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058902451215118401",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058836070490640433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @uzuko_photo: 華やかさの残骸 https://t.co/JymiHclaom"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2058836065583296512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJ0flPa8AANKLJ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1320,
+        "media_key": "3_2058836065587523584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJ0flQbcAAcqn4.jpg",
+        "width": 1979
+      },
+      {
+        "height": 1364,
+        "media_key": "3_2058836065587527680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJ0flQbgAAfYO3.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1364,
+        "media_key": "3_2058836065579126784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJ0flObUAA0ZUt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058836065583296512",
+            "3_2058836065587523584",
+            "3_2058836065587527680",
+            "3_2058836065579126784"
+          ],
+          "media_source_tweet_id": [
+            "2058836070490640433",
+            "2058836070490640433",
+            "2058836070490640433",
+            "2058836070490640433"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2058902451215118401",
+        "created_at": "2026-05-25T13:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058902451215118401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1801187632933965824",
+              "start": 3,
+              "username": "uzuko_photo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JymiHclaom",
+              "end": 48,
+              "expanded_url": "https://x.com/uzuko_photo/status/2058836070490640433/photo/1",
+              "media_key": "3_2058836065583296512",
+              "start": 25,
+              "url": "https://t.co/JymiHclaom"
+            },
+            {
+              "display_url": "pic.x.com/JymiHclaom",
+              "end": 48,
+              "expanded_url": "https://x.com/uzuko_photo/status/2058836070490640433/photo/1",
+              "media_key": "3_2058836065587523584",
+              "start": 25,
+              "url": "https://t.co/JymiHclaom"
+            },
+            {
+              "display_url": "pic.x.com/JymiHclaom",
+              "end": 48,
+              "expanded_url": "https://x.com/uzuko_photo/status/2058836070490640433/photo/1",
+              "media_key": "3_2058836065587527680",
+              "start": 25,
+              "url": "https://t.co/JymiHclaom"
+            },
+            {
+              "display_url": "pic.x.com/JymiHclaom",
+              "end": 48,
+              "expanded_url": "https://x.com/uzuko_photo/status/2058836070490640433/photo/1",
+              "media_key": "3_2058836065579126784",
+              "start": 25,
+              "url": "https://t.co/JymiHclaom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058902451215118401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058836070490640433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @uzuko_photo: 華やかさの残骸 https://t.co/JymiHclaom"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058836065583296512",
+            "3_2058836065587523584",
+            "3_2058836065587527680",
+            "3_2058836065579126784"
+          ]
+        },
+        "author_id": "1801187632933965824",
+        "conversation_id": "2058836070490640433",
+        "created_at": "2026-05-25T09:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058836070490640433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JymiHclaom",
+              "end": 31,
+              "expanded_url": "https://x.com/uzuko_photo/status/2058836070490640433/photo/1",
+              "media_key": "3_2058836065583296512",
+              "start": 8,
+              "url": "https://t.co/JymiHclaom"
+            },
+            {
+              "display_url": "pic.x.com/JymiHclaom",
+              "end": 31,
+              "expanded_url": "https://x.com/uzuko_photo/status/2058836070490640433/photo/1",
+              "media_key": "3_2058836065587523584",
+              "start": 8,
+              "url": "https://t.co/JymiHclaom"
+            },
+            {
+              "display_url": "pic.x.com/JymiHclaom",
+              "end": 31,
+              "expanded_url": "https://x.com/uzuko_photo/status/2058836070490640433/photo/1",
+              "media_key": "3_2058836065587527680",
+              "start": 8,
+              "url": "https://t.co/JymiHclaom"
+            },
+            {
+              "display_url": "pic.x.com/JymiHclaom",
+              "end": 31,
+              "expanded_url": "https://x.com/uzuko_photo/status/2058836070490640433/photo/1",
+              "media_key": "3_2058836065579126784",
+              "start": 8,
+              "url": "https://t.co/JymiHclaom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058836070490640433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 3160,
+          "like_count": 261,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "reply_settings": "following",
+        "text": "華やかさの残骸 https://t.co/JymiHclaom"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AiSMfPiELF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 129,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 106,
+                "url": "https://t.co/AiSMfPiELF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土四",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 202,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 135
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T09:39:46.000Z",
+        "description": "ホラーとダークな写真が好き",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/uzuko0photo",
+                "end": 23,
+                "expanded_url": "https://lit.link/uzuko0photo",
+                "start": 0,
+                "url": "https://t.co/9l49v1lPfH"
+              }
+            ]
+          }
+        },
+        "id": "1801187632933965824",
+        "location": "Do not use without permission.",
+        "name": "うずこ/𝚄𝚣𝚞𝚔𝚘",
+        "pinned_tweet_id": "1976211928252133440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022092005724368896/szdWcHhW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2886,
+          "following_count": 243,
+          "like_count": 39322,
+          "listed_count": 23,
+          "media_count": 1210,
+          "tweet_count": 3270
+        },
+        "url": "https://t.co/9l49v1lPfH",
+        "username": "uzuko_photo",
+        "verified": false
+      }
+    ]
+  }
+}

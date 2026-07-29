@@ -1,0 +1,212 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1628317122945515520",
+    "conversation_id": "1791089426715533755",
+    "created_at": "2024-05-17T06:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-17T07:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791362420977615336"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 63,
+          "normalized_text": "Astral Express",
+          "probability": 0.8654,
+          "start": 50,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1770850918495338496",
+          "start": 0,
+          "username": "sprightly_vwacq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791362420977615336",
+    "in_reply_to_user_id": "1770850918495338496",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791089426715533755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sprightly_vwacq Chugga chugga choo choo said the Astral Express"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1628317122945515520",
+        "conversation_id": "1791089426715533755",
+        "created_at": "2024-05-17T06:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-17T07:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791362420977615336"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 63,
+              "normalized_text": "Astral Express",
+              "probability": 0.8654,
+              "start": 50,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1770850918495338496",
+              "start": 0,
+              "username": "sprightly_vwacq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791362420977615336",
+        "in_reply_to_user_id": "1770850918495338496",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791089426715533755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sprightly_vwacq Chugga chugga choo choo said the Astral Express"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1791089421967593472"
+          ]
+        },
+        "author_id": "1770850918495338496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1791089426715533755",
+        "created_at": "2024-05-16T12:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T13:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791089426715533755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/KcChpQAgQW",
+              "end": 92,
+              "expanded_url": "https://twitter.com/sprightly_vwacq/status/1791089426715533755/photo/1",
+              "media_key": "3_1791089421967593472",
+              "start": 69,
+              "url": "https://t.co/KcChpQAgQW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791089426715533755",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 29867,
+          "like_count": 792,
+          "quote_count": 5,
+          "reply_count": 437,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "hi guys reply and i’ll assign u a path (non-playable paths included) https://t.co/KcChpQAgQW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-22T08:54:23.000Z",
+        "description": "I like playing games, and drawing! Honkai: Star Rail, Genshin and CRK are my favorites! ♡",
+        "id": "1628317122945515520",
+        "location": "Belong to the universe~",
+        "name": "koroshi",
+        "pinned_tweet_id": "1666311300711092224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789532806688989184/3-7F3BCb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 14,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 3
+        },
+        "username": "koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T16:32:35.000Z",
+        "description": "ok yea this set is kinda mid but i like it ok",
+        "id": "1770850918495338496",
+        "location": "Vonwacq's Island of Birth",
+        "name": "Sprightly Vonwacq",
+        "pinned_tweet_id": "1778423232107876835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777388886328528896/W2ujmT3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 447,
+          "like_count": 3066,
+          "listed_count": 8,
+          "tweet_count": 1649
+        },
+        "username": "sprightly_vwacq",
+        "verified": false
+      }
+    ]
+  }
+}

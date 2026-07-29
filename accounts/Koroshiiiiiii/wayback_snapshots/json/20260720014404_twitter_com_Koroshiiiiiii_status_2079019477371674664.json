@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078778522688978944"
+      ],
+      "media_source_tweet_id": [
+        "2078778628343574984"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "conversation_id": "2079019477371674664",
+    "created_at": "2026-07-20T01:44:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T02:44:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079019477371674664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1725914060359680000",
+          "start": 3,
+          "username": "komur_rrr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I14RiE0qIJ",
+          "end": 126,
+          "expanded_url": "https://x.com/komur_rrr/status/2078778628343574984/video/1",
+          "media_key": "13_2078778522688978944",
+          "start": 103,
+          "url": "https://t.co/I14RiE0qIJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079019477371674664",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 342
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078778628343574984",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @komur_rrr: İnanılmaz bir saç kesimi tekniği buldum\nDenemek için kaydedin ve kuaförünüze gösterin 🤗 https://t.co/I14RiE0qIJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35760,
+        "height": 1920,
+        "media_key": "13_2078778522688978944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078778522688978944/img/AK33-tiAyS5m0b9i.jpg",
+        "public_metrics": {
+          "view_count": 2516383
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078778522688978944/vid/avc1/720x1290/v2VIEvlXw2Kg7s5M.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078778522688978944/pl/R4hY56fe9asB55rI.m3u8?v=628"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078778522688978944/vid/avc1/480x860/blA4PP1rvE0EBkqD.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078778522688978944/vid/avc1/1070x1920/xTirikJl8MItCvzf.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078778522688978944/vid/avc1/320x574/kZ0b3IK9FE04aGeT.mp4"
+          }
+        ],
+        "width": 1070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078778522688978944"
+          ]
+        },
+        "author_id": "1725914060359680000",
+        "conversation_id": "2078778628343574984",
+        "created_at": "2026-07-19T09:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078778628343574984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I14RiE0qIJ",
+              "end": 111,
+              "expanded_url": "https://x.com/komur_rrr/status/2078778628343574984/video/1",
+              "media_key": "13_2078778522688978944",
+              "start": 88,
+              "url": "https://t.co/I14RiE0qIJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078778628343574984",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3446,
+          "impression_count": 5148390,
+          "like_count": 9084,
+          "quote_count": 35,
+          "reply_count": 281,
+          "retweet_count": 343
+        },
+        "reply_settings": "everyone",
+        "text": "İnanılmaz bir saç kesimi tekniği buldum\nDenemek için kaydedin ve kuaförünüze gösterin 🤗 https://t.co/I14RiE0qIJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078778522688978944"
+          ],
+          "media_source_tweet_id": [
+            "2078778628343574984"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2079019477371674664",
+        "created_at": "2026-07-20T01:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T02:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079019477371674664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1725914060359680000",
+              "start": 3,
+              "username": "komur_rrr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I14RiE0qIJ",
+              "end": 126,
+              "expanded_url": "https://x.com/komur_rrr/status/2078778628343574984/video/1",
+              "media_key": "13_2078778522688978944",
+              "start": 103,
+              "url": "https://t.co/I14RiE0qIJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079019477371674664",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 342
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078778628343574984",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @komur_rrr: İnanılmaz bir saç kesimi tekniği buldum\nDenemek için kaydedin ve kuaförünüze gösterin 🤗 https://t.co/I14RiE0qIJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀（🦋同名只发drug）\n不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/9aTLaOashy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 113,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 90,
+                "url": "https://t.co/9aTLaOashy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2075645184621330511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 417,
+          "like_count": 2999,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 1021
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T16:30:00.000Z",
+        "description": "izler kalır, izler kalırsın  ♏️",
+        "id": "1725914060359680000",
+        "name": "Kömür",
+        "pinned_tweet_id": "2074053161354965038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000149935417659392/y2uEybod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15534,
+          "following_count": 11128,
+          "like_count": 110062,
+          "listed_count": 6,
+          "media_count": 619,
+          "tweet_count": 14515
+        },
+        "url": "",
+        "username": "komur_rrr",
+        "verified": true
+      }
+    ]
+  }
+}

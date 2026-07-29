@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072105814505218048"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "conversation_id": "2072105879810474138",
+    "created_at": "2026-06-30T23:51:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T00:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072105879810474138"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vc127kZvMZ",
+          "end": 41,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2072105879810474138/photo/1",
+          "media_key": "3_2072105814505218048",
+          "start": 18,
+          "url": "https://t.co/Vc127kZvMZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072105879810474138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "依旧...下雨天跟贴票更配哦... https://t.co/Vc127kZvMZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2316,
+        "media_key": "3_2072105814505218048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMGZQoKa4AAwhCl.jpg",
+        "width": 2316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072105814505218048"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2072105879810474138",
+        "created_at": "2026-06-30T23:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T00:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072105879810474138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vc127kZvMZ",
+              "end": 41,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2072105879810474138/photo/1",
+              "media_key": "3_2072105814505218048",
+              "start": 18,
+              "url": "https://t.co/Vc127kZvMZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072105879810474138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧...下雨天跟贴票更配哦... https://t.co/Vc127kZvMZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/41xEgoJkTr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cg7KXvKW0Nb1…",
+                "end": 112,
+                "expanded_url": "https://www.kdocs.cn/l/cg7KXvKW0Nb1?f=301",
+                "start": 89,
+                "url": "https://t.co/41xEgoJkTr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰被ghostban了半个月还没好",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 348,
+          "like_count": 2097,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 838
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057743680061255680",
+    "conversation_id": "2070318895806980272",
+    "created_at": "2026-06-26T01:31:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T02:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070318895806980272"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nonentity_xxx1…",
+          "end": 134,
+          "expanded_url": "https://twitter.com/nonentity_xxx17/status/2070205057279382007",
+          "start": 111,
+          "url": "https://t.co/XvLLv13HiJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070318895806980272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070205057279382007",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天是国际禁毒日。\n我在此郑重宣誓：\n不因无知接近毒品，\n不因压力纵容滥用，\n不以侥幸挑战底线，\n不把伤害包装成自由，\n不把沉沦误认为清醒。\n珍爱生命，远离滥用；\n保持清醒，反对沉迷；\n把人生的控制权，牢牢握在自己手里。 https://t.co/XvLLv13HiJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2070318895806980272",
+        "created_at": "2026-06-26T01:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T02:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070318895806980272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nonentity_xxx1…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/nonentity_xxx17/status/2070205057279382007",
+              "start": 111,
+              "url": "https://t.co/XvLLv13HiJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070318895806980272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070205057279382007",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天是国际禁毒日。\n我在此郑重宣誓：\n不因无知接近毒品，\n不因压力纵容滥用，\n不以侥幸挑战底线，\n不把伤害包装成自由，\n不把沉沦误认为清醒。\n珍爱生命，远离滥用；\n保持清醒，反对沉迷；\n把人生的控制权，牢牢握在自己手里。 https://t.co/XvLLv13HiJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2070205057279382007",
+        "created_at": "2026-06-25T17:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070205057279382007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rxdruglab/stat…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/rxdruglab/status/2070175184980484258",
+              "start": 111,
+              "url": "https://t.co/LqqCFX8Fns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070205057279382007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 303,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070175184980484258",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天是国际禁毒日。\n我在此郑重宣誓：\n不因无知接近毒品，\n不因压力纵容滥用，\n不以侥幸挑战底线，\n不把伤害包装成自由，\n不把沉沦误认为清醒。\n珍爱生命，远离滥用；\n保持清醒，反对沉迷；\n把人生的控制权，牢牢握在自己手里。 https://t.co/LqqCFX8Fns"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/bo7UxZdgdF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cg7KXvKW0Nb1…",
+                "end": 112,
+                "expanded_url": "https://www.kdocs.cn/l/cg7KXvKW0Nb1?f=301",
+                "start": 89,
+                "url": "https://t.co/bo7UxZdgdF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/kGVlVzRycD"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 341,
+          "like_count": 1879,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 781
+        },
+        "url": "https://t.co/kGVlVzRycD",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 30,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 79,
+          "like_count": 2773,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 565
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      }
+    ]
+  }
+}

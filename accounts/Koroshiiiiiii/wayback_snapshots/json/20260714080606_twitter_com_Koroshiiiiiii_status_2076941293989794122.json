@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076753726795390976"
+      ],
+      "media_source_tweet_id": [
+        "2076753731354591616"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "conversation_id": "2076941293989794122",
+    "created_at": "2026-07-14T08:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T09:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076941293989794122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1619664175957147648",
+          "start": 3,
+          "username": "angelkawaiiko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wss8Weq15x",
+          "end": 51,
+          "expanded_url": "https://x.com/angelkawaiiko/status/2076753731354591616/photo/1",
+          "media_key": "3_2076753726795390976",
+          "start": 28,
+          "url": "https://t.co/Wss8Weq15x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076941293989794122",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 661
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076753731354591616",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @angelkawaiiko: 今迎えに行くよ。 https://t.co/Wss8Weq15x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1646,
+        "media_key": "3_2076753726795390976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIcguuboAA31V1.jpg",
+        "width": 1812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076753726795390976"
+          ],
+          "media_source_tweet_id": [
+            "2076753731354591616"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2076941293989794122",
+        "created_at": "2026-07-14T08:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T09:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076941293989794122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1619664175957147648",
+              "start": 3,
+              "username": "angelkawaiiko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wss8Weq15x",
+              "end": 51,
+              "expanded_url": "https://x.com/angelkawaiiko/status/2076753731354591616/photo/1",
+              "media_key": "3_2076753726795390976",
+              "start": 28,
+              "url": "https://t.co/Wss8Weq15x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076941293989794122",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 661
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076753731354591616",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @angelkawaiiko: 今迎えに行くよ。 https://t.co/Wss8Weq15x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076753726795390976"
+          ]
+        },
+        "author_id": "1619664175957147648",
+        "conversation_id": "2076753731354591616",
+        "created_at": "2026-07-13T19:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T20:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076753731354591616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wss8Weq15x",
+              "end": 32,
+              "expanded_url": "https://x.com/angelkawaiiko/status/2076753731354591616/photo/1",
+              "media_key": "3_2076753726795390976",
+              "start": 9,
+              "url": "https://t.co/Wss8Weq15x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076753731354591616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 555,
+          "impression_count": 110784,
+          "like_count": 9801,
+          "quote_count": 64,
+          "reply_count": 3,
+          "retweet_count": 661
+        },
+        "reply_settings": "everyone",
+        "text": "今迎えに行くよ。 https://t.co/Wss8Weq15x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/9aTLaOashy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 112,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 89,
+                "url": "https://t.co/9aTLaOashy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2075645184621330511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 389,
+          "like_count": 2658,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 945
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-29T11:50:22.000Z",
+        "description": "この混沌とした令和のインターネットを照らす一筋の光 電子の海を漂うオタクに笑顔を 未来の平和をお約束 躁鬱だけどまかせとけ インターネット・エンジェルXにもただいま降臨✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.com/gallery/",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.com/gallery/",
+                "start": 0,
+                "url": "https://t.co/IE4BytTCrO"
+              }
+            ]
+          }
+        },
+        "id": "1619664175957147648",
+        "location": "ただのなりきり垢だから誤フォローに注意してね",
+        "name": "超てんちゃん",
+        "pinned_tweet_id": "1795485623568171269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796447181987328000/rS6b703p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9368,
+          "following_count": 6,
+          "like_count": 352,
+          "listed_count": 12,
+          "media_count": 64,
+          "tweet_count": 432
+        },
+        "url": "https://t.co/IE4BytTCrO",
+        "username": "angelkawaiiko",
+        "verified": false
+      }
+    ]
+  }
+}
