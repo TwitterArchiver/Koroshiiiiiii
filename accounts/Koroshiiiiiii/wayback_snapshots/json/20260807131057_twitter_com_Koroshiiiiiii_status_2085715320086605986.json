@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085715301610737664",
+        "3_2085715301602304001",
+        "3_2085715301644349440"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "conversation_id": "2085715320086605986",
+    "created_at": "2026-08-07T13:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T14:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085715320086605986"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QghrJgWUzA",
+          "end": 28,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2085715320086605986/photo/1",
+          "media_key": "3_2085715301610737664",
+          "start": 5,
+          "url": "https://t.co/QghrJgWUzA"
+        },
+        {
+          "display_url": "pic.x.com/QghrJgWUzA",
+          "end": 28,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2085715320086605986/photo/1",
+          "media_key": "3_2085715301602304001",
+          "start": 5,
+          "url": "https://t.co/QghrJgWUzA"
+        },
+        {
+          "display_url": "pic.x.com/QghrJgWUzA",
+          "end": 28,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2085715320086605986/photo/1",
+          "media_key": "3_2085715301644349440",
+          "start": 5,
+          "url": "https://t.co/QghrJgWUzA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085715320086605986",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "生命力！ https://t.co/QghrJgWUzA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2085715301610737664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHzBCca0AAfMgU.jpg",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2085715301602304001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHzBCaaIAEOyF8.jpg",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2085715301644349440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHzBCkbsAAURTq.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085715301610737664",
+            "3_2085715301602304001",
+            "3_2085715301644349440"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2085715320086605986",
+        "created_at": "2026-08-07T13:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085715320086605986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QghrJgWUzA",
+              "end": 28,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2085715320086605986/photo/1",
+              "media_key": "3_2085715301610737664",
+              "start": 5,
+              "url": "https://t.co/QghrJgWUzA"
+            },
+            {
+              "display_url": "pic.x.com/QghrJgWUzA",
+              "end": 28,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2085715320086605986/photo/1",
+              "media_key": "3_2085715301602304001",
+              "start": 5,
+              "url": "https://t.co/QghrJgWUzA"
+            },
+            {
+              "display_url": "pic.x.com/QghrJgWUzA",
+              "end": 28,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2085715320086605986/photo/1",
+              "media_key": "3_2085715301644349440",
+              "start": 5,
+              "url": "https://t.co/QghrJgWUzA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085715320086605986",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生命力！ https://t.co/QghrJgWUzA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "🚪77（防扰）\n可以叫小杀（🦋同名只发drug）\n不🩸🔪/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪\n药理学习中💊/免费私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/9aTLaOashy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 110,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 87,
+                "url": "https://t.co/9aTLaOashy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟ ",
+        "name": "山本殺し✰（出💊版）",
+        "pinned_tweet_id": "2084563743435010484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 307,
+          "like_count": 3599,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 1174
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}
