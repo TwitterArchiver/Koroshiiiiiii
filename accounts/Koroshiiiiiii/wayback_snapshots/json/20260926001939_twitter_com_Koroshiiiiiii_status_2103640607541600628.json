@@ -1,0 +1,732 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057743680061255680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005928152298737664",
+          "name": "Cyberpunk 2077"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005928152298737664",
+          "name": "Cyberpunk 2077"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005928152298737664",
+          "name": "Cyberpunk 2077"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      }
+    ],
+    "conversation_id": "2103640607541600628",
+    "created_at": "2026-09-26T00:19:39.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T01:19:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103640607541600628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1717479017157406720",
+          "start": 3,
+          "username": "ParanoiaCy81004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103640607541600628",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084331823476380048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ParanoiaCy81004: Cyber Paranoia is now featured in Steam Cyberpunk Fest! 🤖\nWill you fall in love with your own android ... or lose your…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1052,
+        "media_key": "3_2084331812583854080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO0IvYMbUAAqVL7.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2103640607541600628",
+        "created_at": "2026-09-26T00:19:39.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T01:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103640607541600628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1717479017157406720",
+              "start": 3,
+              "username": "ParanoiaCy81004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103640607541600628",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084331823476380048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ParanoiaCy81004: Cyber Paranoia is now featured in Steam Cyberpunk Fest! 🤖\nWill you fall in love with your own android ... or lose your…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084331812583854080"
+          ]
+        },
+        "author_id": "1717479017157406720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2084331823476380048",
+        "created_at": "2026-08-03T17:33:26.000Z",
+        "display_text_range": [
+          0,
+          276
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084331823476380048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x7sroQaelt",
+              "end": 300,
+              "expanded_url": "https://x.com/ParanoiaCy81004/status/2084331823476380048/photo/1",
+              "media_key": "3_2084331812583854080",
+              "start": 277,
+              "url": "https://t.co/x7sroQaelt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084331823476380048",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2084331812583854080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 296,
+                "start": 287,
+                "tag": "indiedev"
+              },
+              {
+                "end": 307,
+                "start": 297,
+                "tag": "indiegame"
+              },
+              {
+                "end": 318,
+                "start": 308,
+                "tag": "otomegame"
+              },
+              {
+                "end": 331,
+                "start": 319,
+                "tag": "VisualNovel"
+              },
+              {
+                "end": 346,
+                "start": 332,
+                "tag": "CyberpunkFest"
+              }
+            ]
+          },
+          "text": "Cyber Paranoia is now featured in Steam Cyberpunk Fest! 🤖\nWill you fall in love with your own android ... or lose yourself in the treatment?\nIf you're into cyberpunk, psychological horror, and choice-driven stories, I'd love for you to check out the demo.\n🎮 Demo available now on Steam!\n#indiedev #indiegame #otomegame #VisualNovel #CyberpunkFest"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 471,
+          "impression_count": 20177,
+          "like_count": 1157,
+          "quote_count": 11,
+          "reply_count": 7,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "Cyber Paranoia is now featured in Steam Cyberpunk Fest! 🤖\nWill you fall in love with your own android ... or lose yourself in the treatment?\nIf you're into cyberpunk, psychological horror, and choice-driven stories, I'd love for you to check out the demo.\n🎮 Demo available now https://t.co/x7sroQaelt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀\n我的旅行报告👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cuok2zMYEmmg…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/cuok2zMYEmmg?f=301",
+                "start": 0,
+                "url": "https://t.co/DseOMhpHAu"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "is_identity_verified": false,
+        "location": "✟升天✟ ",
+        "most_recent_tweet_id": "2103640607541600628",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2103357747303694610",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057743680061255680/1779439885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 293,
+          "like_count": 3873,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 843
+        },
+        "url": "https://t.co/DseOMhpHAu",
+        "username": "Koroshiiiiiii",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T09:51:41.000Z",
+        "description": "solo game dev (she/her) 🥺\nmy game : #CyberParanoia\n\n♡16+ medicalcore romance ADV\n♡DEMO &Wishlist on Steam!👇 NEXT FEST!\n♡Discord https://t.co/mkGGZzrQJc",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 36,
+                "tag": "CyberParanoia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/farfhHYKUw",
+                "end": 151,
+                "expanded_url": "https://discord.gg/farfhHYKUw",
+                "start": 128,
+                "url": "https://t.co/mkGGZzrQJc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "store.steampowered.com/app/3126170/Cy…",
+                "end": 23,
+                "expanded_url": "https://store.steampowered.com/app/3126170/Cyber_Paranoia/",
+                "start": 0,
+                "url": "https://t.co/AbksdWkV8e"
+              }
+            ]
+          }
+        },
+        "id": "1717479017157406720",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100460991490490529",
+        "name": "Cyber Paranoia ♡ Steam DEMO 6.8",
+        "pinned_tweet_id": "2063132133808586892",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717479017157406720/1754069331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719215992885391361/7ByIMXZo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1683,
+          "following_count": 256,
+          "like_count": 576,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 222
+        },
+        "url": "https://t.co/AbksdWkV8e",
+        "username": "ParanoiaCy81004",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

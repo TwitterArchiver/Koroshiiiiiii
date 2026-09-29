@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057743680061255680",
+    "conversation_id": "2099772422505595308",
+    "created_at": "2026-09-15T08:08:52.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T09:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099772422505595308"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2099772422505595308",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🥺👆🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2099772422505595308",
+        "created_at": "2026-09-15T08:08:52.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T09:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099772422505595308"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099772422505595308",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥺👆🏻"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "🚪77\n可以叫小杀\n需药私信（回复慢，望理解🥺）\n我的旅行报告👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cuok2zMYEmmg…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/cuok2zMYEmmg?f=301",
+                "start": 0,
+                "url": "https://t.co/DseOMhqfq2"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "is_identity_verified": false,
+        "location": "✟升天✟ ",
+        "most_recent_tweet_id": "2099772422505595308",
+        "name": "山本殺し（出💊版）",
+        "pinned_tweet_id": "2090011513750982828",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057743680061255680/1779439885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 312,
+          "like_count": 3823,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 826
+        },
+        "url": "https://t.co/DseOMhqfq2",
+        "username": "Koroshiiiiiii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

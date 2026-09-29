@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101702341787631616"
+      ]
+    },
+    "author_id": "2057743680061255680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2101702393939587363",
+    "created_at": "2026-09-20T15:57:53.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T16:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101702393939587363"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/voEdGmShXE",
+          "end": 25,
+          "expanded_url": "https://x.com/Koroshiiiiiii/status/2101702393939587363/photo/1",
+          "media_key": "3_2101702341787631616",
+          "start": 2,
+          "url": "https://t.co/voEdGmShXE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101702393939587363",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2101702341787631616"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🫠 https://t.co/voEdGmShXE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2101702341787631616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSq_JQHbwAAhmeD.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101702341787631616"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2101702393939587363",
+        "created_at": "2026-09-20T15:57:53.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T16:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101702393939587363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/voEdGmShXE",
+              "end": 25,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2101702393939587363/photo/1",
+              "media_key": "3_2101702341787631616",
+              "start": 2,
+              "url": "https://t.co/voEdGmShXE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101702393939587363",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2101702341787631616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🫠 https://t.co/voEdGmShXE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "🚪77\n可以叫小杀\n需药私信（回复慢，望理解🥺）\n我的旅行报告👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cuok2zMYEmmg…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/cuok2zMYEmmg?f=301",
+                "start": 0,
+                "url": "https://t.co/DseOMhqfq2"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "is_identity_verified": false,
+        "location": "✟升天✟ ",
+        "most_recent_tweet_id": "2101702393939587363",
+        "name": "山本殺し（出💊版）",
+        "pinned_tweet_id": "2099772592911745499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057743680061255680/1779439885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 297,
+          "like_count": 3852,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 835
+        },
+        "url": "https://t.co/DseOMhqfq2",
+        "username": "Koroshiiiiiii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

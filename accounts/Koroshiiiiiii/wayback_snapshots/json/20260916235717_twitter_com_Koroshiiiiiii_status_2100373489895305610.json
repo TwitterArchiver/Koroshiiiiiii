@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057743680061255680",
+    "conversation_id": "2100155250678378868",
+    "created_at": "2026-09-16T23:57:17.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T00:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100373489895305610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1801534903626121216",
+          "start": 0,
+          "username": "qngshu988723424"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100373489895305610",
+    "in_reply_to_user_id": "1801534903626121216",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100360028704407864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qngshu988723424 rua！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2100155250678378868",
+        "created_at": "2026-09-16T23:57:17.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T00:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100373489895305610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1801534903626121216",
+              "start": 0,
+              "username": "qngshu988723424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100373489895305610",
+        "in_reply_to_user_id": "1801534903626121216",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100360028704407864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qngshu988723424 rua！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801534903626121216",
+        "conversation_id": "2100155250678378868",
+        "created_at": "2026-09-16T23:03:48.000Z",
+        "display_text_range": [
+          15,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T00:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100360028704407864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057743680061255680",
+              "start": 0,
+              "username": "Koroshiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100360028704407864",
+        "in_reply_to_user_id": "2057743680061255680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100155250678378868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koroshiiiiiii 哇这个长得好可爱噢想摸"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "🚪77\n可以叫小杀\n需药私信（回复慢，望理解🥺）\n我的旅行报告👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cuok2zMYEmmg…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/cuok2zMYEmmg?f=301",
+                "start": 0,
+                "url": "https://t.co/DseOMhqfq2"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "is_identity_verified": false,
+        "location": "✟升天✟ ",
+        "most_recent_tweet_id": "2100373489895305610",
+        "name": "山本殺し（出💊版）",
+        "pinned_tweet_id": "2099772592911745499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057743680061255680/1779439885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 296,
+          "like_count": 3839,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 832
+        },
+        "url": "https://t.co/DseOMhqfq2",
+        "username": "Koroshiiiiiii",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-14T08:39:35.000Z",
+        "description": "enby/和鸟每天抢吃的/一分钟发八条/说话很人机可能博关注,谢谢你们祝你们身体健康可能🩸💊内容|| @Ace_Purin←点击关注布丁谢谢喵，这个是很可爱说话也很萌的人。@PP_Konig←这个是我的好妈妈，可以多和她们互动！这个布丁很好互动也很有意思，盐鸦妈妈特别温柔，然后我特别喜欢这个人，希望我们都能开心。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Ace_Purin"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "PP_Konig"
+              }
+            ]
+          }
+        },
+        "id": "1801534903626121216",
+        "is_identity_verified": false,
+        "location": "鸟笼",
+        "most_recent_tweet_id": "2100368147773895117",
+        "name": "rotaka",
+        "pinned_tweet_id": "2089918754981593307",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1801534903626121216/1751515393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017539398498455559/yoqs9-Hg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 826,
+          "like_count": 10923,
+          "listed_count": 1,
+          "media_count": 760,
+          "tweet_count": 10085
+        },
+        "url": "",
+        "username": "qngshu988723424",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

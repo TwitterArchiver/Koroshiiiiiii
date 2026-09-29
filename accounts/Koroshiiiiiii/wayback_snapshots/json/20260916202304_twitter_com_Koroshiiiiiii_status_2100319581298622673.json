@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057743680061255680",
+    "conversation_id": "2100155250678378868",
+    "created_at": "2026-09-16T20:23:04.000Z",
+    "display_text_range": [
+      8,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T21:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100319581298622673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1492765349183295489",
+          "start": 0,
+          "username": "J1M2ju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100319581298622673",
+    "in_reply_to_user_id": "1492765349183295489",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100228836617314554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@J1M2ju 鼠尾草！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2100155250678378868",
+        "created_at": "2026-09-16T20:23:04.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T21:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100319581298622673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1492765349183295489",
+              "start": 0,
+              "username": "J1M2ju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100319581298622673",
+        "in_reply_to_user_id": "1492765349183295489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100228836617314554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@J1M2ju 鼠尾草！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492765349183295489",
+        "conversation_id": "2100155250678378868",
+        "created_at": "2026-09-16T14:22:29.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100228836617314554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057743680061255680",
+              "start": 0,
+              "username": "Koroshiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100228836617314554",
+        "in_reply_to_user_id": "2057743680061255680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100155250678378868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koroshiiiiiii 这是啥"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "🚪77\n可以叫小杀\n需药私信（回复慢，望理解🥺）\n我的旅行报告👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cuok2zMYEmmg…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/cuok2zMYEmmg?f=301",
+                "start": 0,
+                "url": "https://t.co/DseOMhqfq2"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "is_identity_verified": false,
+        "location": "✟升天✟ ",
+        "most_recent_tweet_id": "2100319581298622673",
+        "name": "山本殺し（出💊版）",
+        "pinned_tweet_id": "2099772592911745499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057743680061255680/1779439885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 296,
+          "like_count": 3840,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 831
+        },
+        "url": "https://t.co/DseOMhqfq2",
+        "username": "Koroshiiiiiii",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-13T07:39:41.000Z",
+        "description": "",
+        "id": "1492765349183295489",
+        "is_identity_verified": false,
+        "location": "中国",
+        "most_recent_tweet_id": "2100228836617314554",
+        "name": "W先生",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1492765349183295489/1679688767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990277322193375232/JaDZLA8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 75,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "J1M2ju",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
