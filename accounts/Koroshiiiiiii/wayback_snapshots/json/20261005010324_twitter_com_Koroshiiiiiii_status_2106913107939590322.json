@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057743680061255680",
+    "conversation_id": "2106913107939590322",
+    "created_at": "2026-10-05T01:03:24.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T02:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106913107939590322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1680146462213292033",
+          "start": 3,
+          "username": "doumaiNPS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106913107939590322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106794237945856213",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doumaiNPS: 致歉帖\n现在产品的售价均为预售价 因为研究成本问题现资金周转不开才进行预售回款 本月内订单会在下单10-15天内发货 下个月五号物料可以全部配齐 到时会进行价格微调\n为表歉意 在此本兜麦奉上珍贵的99.97%纯度的平壤槟榔10g 抽2人 玻璃面霜瓶…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2106913107939590322",
+        "created_at": "2026-10-05T01:03:24.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T02:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106913107939590322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680146462213292033",
+              "start": 3,
+              "username": "doumaiNPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106913107939590322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106794237945856213",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doumaiNPS: 致歉帖\n现在产品的售价均为预售价 因为研究成本问题现资金周转不开才进行预售回款 本月内订单会在下单10-15天内发货 下个月五号物料可以全部配齐 到时会进行价格微调\n为表歉意 在此本兜麦奉上珍贵的99.97%纯度的平壤槟榔10g 抽2人 玻璃面霜瓶…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680146462213292033",
+        "conversation_id": "2106794237945856213",
+        "created_at": "2026-10-04T17:11:03.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T18:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106794237945856213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106794237945856213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1493,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "致歉帖\n现在产品的售价均为预售价 因为研究成本问题现资金周转不开才进行预售回款 本月内订单会在下单10-15天内发货 下个月五号物料可以全部配齐 到时会进行价格微调\n为表歉意 在此本兜麦奉上珍贵的99.97%纯度的平壤槟榔10g 抽2人 玻璃面霜瓶包装🙏🏻\n参与条件:关注转发评论 本期讨论内容:兜麦是否可信"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀\n@lengcuicui119（日常版）\n我的旅行报告👇🏻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "lengcuicui119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/ck8FK6qyzSlm…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/ck8FK6qyzSlm?f=301",
+                "start": 0,
+                "url": "https://t.co/FW3Drp31XR"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "is_identity_verified": false,
+        "location": "✟升天✟ ",
+        "most_recent_tweet_id": "2106913115237707801",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2103357747303694610",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057743680061255680/1779439885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 291,
+          "like_count": 3882,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 849
+        },
+        "url": "https://t.co/FW3Drp31XR",
+        "username": "Koroshiiiiiii",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-15T09:25:21.000Z",
+        "description": "兜麦实验室官方账号\n创始人@zifensix @painun1is\n本号不回私信 有事请联系两位创始人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "zifensix"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "painun1is"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/doumaiRC",
+                "end": 23,
+                "expanded_url": "https://t.me/doumaiRC",
+                "start": 0,
+                "url": "https://t.co/Ot2Mmw7ej8"
+              }
+            ]
+          }
+        },
+        "id": "1680146462213292033",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106877502308429962",
+        "name": "兜麦总部",
+        "pinned_tweet_id": "2106459246607184044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680146462213292033/1791140014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106456360053592064/Yf1ui_yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 2,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 25
+        },
+        "url": "https://t.co/Ot2Mmw7ej8",
+        "username": "doumaiNPS",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

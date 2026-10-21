@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057743680061255680",
+    "conversation_id": "2106707024495133165",
+    "created_at": "2026-10-04T13:18:21.000Z",
+    "display_text_range": [
+      9,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T14:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106735678168162793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2050049924008660992",
+          "start": 0,
+          "username": "OD4UFML"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106735678168162793",
+    "in_reply_to_user_id": "2050049924008660992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106707024495133165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OD4UFML 好巧，我今天也是静息117！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2106707024495133165",
+        "created_at": "2026-10-04T13:18:21.000Z",
+        "display_text_range": [
+          9,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T14:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106735678168162793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2050049924008660992",
+              "start": 0,
+              "username": "OD4UFML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106735678168162793",
+        "in_reply_to_user_id": "2050049924008660992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106707024495133165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OD4UFML 好巧，我今天也是静息117！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050049924008660992",
+        "conversation_id": "2106707024495133165",
+        "created_at": "2026-10-04T11:24:30.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T12:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106707024495133165"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106707024495133165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽了四支烟🚬，心率给我干到117了……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀\n@lengcuicui119（日常版）\n我的旅行报告👇🏻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "lengcuicui119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cuok2zMYEmmg…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/cuok2zMYEmmg?f=301",
+                "start": 0,
+                "url": "https://t.co/DseOMhqfq2"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "is_identity_verified": false,
+        "location": "✟升天✟ ",
+        "most_recent_tweet_id": "2106735678168162793",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2103357747303694610",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057743680061255680/1779439885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 291,
+          "like_count": 3874,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 846
+        },
+        "url": "https://t.co/DseOMhqfq2",
+        "username": "Koroshiiiiiii",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-01T03:09:38.000Z",
+        "description": "敬每个混账的我们，寻得各自的安宁",
+        "id": "2050049924008660992",
+        "is_identity_verified": false,
+        "location": "自深深处",
+        "most_recent_tweet_id": "2106707964170293680",
+        "name": "不挽春",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050049924008660992/1790227189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101675924127444992/adPvqHpw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 126,
+          "like_count": 1284,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 337
+        },
+        "url": "",
+        "username": "OD4UFML",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
